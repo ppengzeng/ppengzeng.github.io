@@ -24,6 +24,22 @@
   <link href="css/agency.css" rel="stylesheet">
 
 </head>
+<style>
+  #preview{
+    max-width: 60%;
+    max-height: 60%;
+    box-shadow: 0 0 36px 12px rgba(0, 0, 0, 0.3333333333);
+    object-fit: contain;
+    width: auto;
+    height: auto;
+    display: flex;
+    border-radius: 0;
+    padding: 0;
+    margin: 0;
+    margin: 0;
+    position: absolute;
+  }
+</style>
 
 <body id="page-top">
 
@@ -104,7 +120,7 @@
 
       <div class="row" id="seq">
         <div class="col-md-3 panel">
-          <img src="./img/pubs/TNNLS2020.jpg" width="100%" height="100px">
+          <img src="./img/pubs/TNNLS2020.jpg" class="img-thumbnail" style="height: 100px!important" width="100%" height="100px">
         </div>
         <div class="col-md-9">
           <h5 class="text-muted">Rich Visual Knowledge-based Augmentation Network for Visual Question Answering</h5>
@@ -119,7 +135,7 @@
 
       <div class="row" id="seq">
         <div class="col-md-3 panel">
-          <img src="./img/pubs/AAAI_STA.jpg" width="100%" height="100px">
+          <img src="./img/pubs/AAAI_STA.jpg" class="img-thumbnail" style="height: 100px!important" width="100%" height="100px" >
         </div>
         <div class="col-md-9">
           <h5 class="text-muted">Structured Two-stream Attention Network for Video Question Answering</h5>
@@ -134,7 +150,7 @@
 
       <div class="row" id="seq">
         <div class="col-md-3 panel">
-          <img src="./img/pubs/ACMMM2018.jpg" width="100%" height="100px">
+          <img src="./img/pubs/ACMMM2018.jpg" class="img-thumbnail" style="height: 100px!important" width="100%" height="100px">
         </div>
         <div class="col-md-9">
           <h5 class="text-muted">Examine before You Answer: Multi-task Learning with Adaptive-attentions for Multiple-choice VQA</h5>
@@ -149,7 +165,7 @@
 
       <div class="row" id="seq">
         <div class="col-md-3 panel">
-          <img src="./img/pubs/IJCAI_CVA.jpg" width="100%" height="100px">
+          <img src="./img/pubs/IJCAI_CVA.jpg" class="img-thumbnail" style="height: 100px!important" width="100%" height="100px">
         </div>
         <div class="col-md-9">
           <h5 class="text-muted">From Pixels to Objects: Cubic Visual Attention for Visual Question Answering</h5>
@@ -217,6 +233,41 @@
 
   <!-- Custom scripts for this template -->
   <script src="js/agency.min.js"></script>
+<script text="text/javascript">
+    this.imagePreview = function () {
+      /* CONFIG */
+
+      xOffset = 10;
+      yOffset = 30;
+
+      // these 2 variable determine popup's distance from the cursor
+      // you might want to adjust to get the right result
+
+      /* END CONFIG */
+      $(".img-thumbnail").hover(function (e) {
+        $("body").append("<img id='preview' src='" + this.src + "' alt='Image preview' />");
+        $("#preview")
+          .css("top", (e.pageY - xOffset) + "px")
+          .css("left", (e.pageX + yOffset) + "px")
+          .fadeIn("fast");
+      },
+        function () {
+          this.title = this.t;
+          $("#preview").remove();
+        });
+      $(".img-thumbnail").mousemove(function (e) {
+        $("#preview")
+          .css("top", (e.pageY - xOffset) + "px")
+          .css("left", (e.pageX + yOffset) + "px");
+      });
+    };
+
+
+    // starting the script on page load
+    $(document).ready(function () {
+      imagePreview();
+    });
+  </script>
 
 </body>
 
