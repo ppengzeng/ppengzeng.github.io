@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, China. Currently, I’m a student of Professor [Xi Peng](http://pengxi.me")
+Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, China. Currently, I’m a student of Professor [Xi Peng](http://pengxi.me").
 
 My research interests include Multimodal Learning and Deep Learning. For now I focus on the multimodal learning and unsupervised learning, which can be unified to the framework of Representation Learning.
 
@@ -38,7 +38,7 @@ My research interests include Multimodal Learning and Deep Learning. For now I f
 **CVPR, 2021** \| [**Project**](https://github.com/XLearning-SCU/2021-CVPR-Completer) 
 [![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-Completer?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-Completer)
 <strong>
-<span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span>
+<span class='show_paper_citations' data='KXKVYHsAAAAJ:2osOgNQ5qMEC'></span>
 </strong>
 <!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C -->
 </div>
