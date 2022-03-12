@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, China. Currently, I’m a student of Professor Peng (http://pengxi.me")
+Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, China. Currently, I’m a student of Professor [Xi Peng](http://pengxi.me")
 
 My research interests include Multimodal Learning and Deep Learning. For now I focus on the multimodal learning and unsupervised learning, which can be unified to the framework of Representation Learning.
 
