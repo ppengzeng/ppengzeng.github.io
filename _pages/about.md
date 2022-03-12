@@ -19,6 +19,7 @@ redirect_from:
 
 Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, China. Currently, I’m a student of Professor Peng <a href="http://pengxi.me"></a>
 
+My research interests include Multimodal Learning and Deep Learning. For now I focus on the multimodal learning and unsupervised learning, which can be unified to the framework of Representation Learning.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -52,8 +53,8 @@ Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science
 
 
 # 📖 Educations
-- *2020.09 - now*, Ph.D. student, Sichuan Univeristy, Chengdu.
-- *2016.09 - 2020.06, Undergraduate, Sichuan Univeristy, Chengdu.
+- 2020.09 - now, Ph.D. student, Sichuan Univeristy, Chengdu.
+- 2016.09 - 2020.06, Undergraduate, Sichuan Univeristy, Chengdu.
 
 
 <!-- 
@@ -61,5 +62,11 @@ Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China. -->
+# 💻 
+-->
+# 💬 Academic Service
+<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
+
+- Journal Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE Access.
+
+- Conference Reviewer of CICAI 2021, ICIG 2021, ACML 2021, PRCV 2021, PRCV 2022.
