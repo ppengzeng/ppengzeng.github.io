@@ -38,7 +38,7 @@ My research interests include Multimodal Learning and Deep Learning. For now I f
 **CVPR, 2021** \| [**Project**](https://github.com/XLearning-SCU/2021-CVPR-Completer) 
 [![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-Completer?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-Completer)
 <strong>
-<span class='show_paper_citations' data='KXKVYHsAAAAJ:2osOgNQ5qMEC'></span>
+<span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span>
 </strong>
 <!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C -->
 </div>
