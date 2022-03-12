@@ -34,8 +34,11 @@ Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science
 
 [COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_COMPLETER_Incomplete_Multi-View_Clustering_via_Contrastive_Prediction_CVPR_2021_paper.pdf), **Yijie Lin**, Yuanbiao Gou, Zitao Liu, Boyun Li, Jiancheng Lv, Xi Peng
 
-**CVPR, 2021** \| [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C) <strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span></strong>
+**CVPR, 2021** \| [**Project**](https://github.com/XLearning-SCU/2021-CVPR-Completer) 
+[Completer![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-Completer?style=social)](https://github.com/XLearning-SCU/2021-CVPR-Completer)
+<strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span></strong>
 
+<!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C -->
 </div>
 </div>
 
