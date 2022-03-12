@@ -49,6 +49,7 @@ My research interests include Multimodal Learning and Deep Learning. For now I f
 
 # 🎖 Honors and Awards
 
+- *2021.10* Innovation Scholarship (Ph.D. student) 
 - *2019.09* National Scholarship (Undergraduate) (Top 1%)
 
 
