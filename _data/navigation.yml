@@ -19,6 +19,6 @@ main:
   #   url: "/#-invited-talks"
 
   - title: "Academic Service"
-    url: "/#-academic-and-service"
+    # url: "/#-academic-and-service"
     
   # url: "/#-internships"
