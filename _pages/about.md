@@ -19,8 +19,7 @@ redirect_from:
 
 Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, China. Currently, I’m a student of Professor [Xi Peng](http://pengxi.me").
 
-My research interests include Multimodal Learning and Unsupervised Learning <a href='https://scholar.google.com/citations?user=KXKVYHsAAAAJ'>
-<img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>), which can be unified to the framework of Representation Learning.
+My research interests include Multimodal Learning and Unsupervised Learning, which can be unified to the framework of Representation Learning.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -37,7 +36,8 @@ My research interests include Multimodal Learning and Unsupervised Learning <a h
 [COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_COMPLETER_Incomplete_Multi-View_Clustering_via_Contrastive_Prediction_CVPR_2021_paper.pdf), **Yijie Lin**, Yuanbiao Gou, Zitao Liu, Boyun Li, Jiancheng Lv, Xi Peng
 
 **CVPR, 2021** \| [**Project**](https://github.com/XLearning-SCU/2021-CVPR-Completer) 
-[![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-Completer?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-Completer)
+<!-- [![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-Completer?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-Completer) -->
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 <strong>
 <span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span>
 </strong>
