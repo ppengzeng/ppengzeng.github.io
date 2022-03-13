@@ -36,11 +36,9 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 [COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_COMPLETER_Incomplete_Multi-View_Clustering_via_Contrastive_Prediction_CVPR_2021_paper.pdf), **Yijie Lin**, Yuanbiao Gou, Zitao Liu, Boyun Li, Jiancheng Lv, Xi Peng
 
 **CVPR, 2021** \| [**Project**](https://github.com/XLearning-SCU/2021-CVPR-Completer) 
-<!-- [![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-Completer?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-Completer) -->
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-<strong>
-<span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span>
-</strong>
+[![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-Completer?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-Completer)
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span></strong>
 <!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C -->
 </div>
 </div>
