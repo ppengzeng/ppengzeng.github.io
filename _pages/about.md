@@ -35,7 +35,7 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 
 [COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_COMPLETER_Incomplete_Multi-View_Clustering_via_Contrastive_Prediction_CVPR_2021_paper.pdf), **Yijie Lin**, Yuanbiao Gou, Zitao Liu, Boyun Li, Jiancheng Lv, Xi Peng
 
-**CVPR, 2021** \| [**Project**](https://github.com/XLearning-SCU/2021-CVPR-Completer) 
+**CVPR, 2021** \| **Project** 
 [![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-Completer?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-Completer)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span></strong>
@@ -53,9 +53,9 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 - *2019.09* National Scholarship (Undergraduate) (Top 1%)
 
 
-# 📖 Educations
+<!-- # 📖 Educations
 - 2020.09 - now, Ph.D. student, Sichuan Univeristy, Chengdu.
-- 2016.09 - 2020.06, Undergraduate, Sichuan Univeristy, Chengdu.
+- 2016.09 - 2020.06, Undergraduate, Sichuan Univeristy, Chengdu. -->
 
 
 <!-- 
@@ -63,13 +63,18 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
+
 # 💻 
 -->
-# 💬 Service
+# 🙋 Service
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
 - Journal Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE Access.
 
 - Conference Reviewer of CICAI 2021, ICIG 2021, ACML 2021, PRCV 2021, PRCV 2022.
 
-<!--  -->
+
+<!-- 
+# 💬 Talks
+ -->
+
