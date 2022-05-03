@@ -26,7 +26,7 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2021.03*: &nbsp;🎉🎉 One paper was accepted by the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021), Virtual-only Conference, Jun, 2021.
+- *2021.03*: &nbsp; One paper was accepted by the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021), Virtual-only Conference, Jun, 2021.
 
 # 📝 Publications 
 
@@ -69,7 +69,7 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 # 🙋 Service
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
-- Journal Reviewer of IEEE Transactions on Systems, Man and Cybernetics: Systems, IEEE Access.
+- Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Systems, Man and Cybernetics: Systems.
 
 - Conference Reviewer of CICAI 2021, ICIG 2021, ACML 2021, PRCV 2021, PRCV 2022.
 
