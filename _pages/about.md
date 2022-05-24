@@ -30,12 +30,15 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><img src='images/completer.png' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'>
+<div><div class="badge">CVPR 2021</div>
+<img src='images/completer.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 
 [COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_COMPLETER_Incomplete_Multi-View_Clustering_via_Contrastive_Prediction_CVPR_2021_paper.pdf), **Yijie Lin**, Yuanbiao Gou, Zitao Liu, Boyun Li, Jiancheng Lv, Xi Peng
 
-**CVPR, 2021** \| **Project** 
+<!-- **CVPR, 2021**  -->
+**Project** 
 [![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-Completer?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-Completer)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span></strong>
@@ -43,9 +46,9 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 </div>
 </div>
 
-- [Unsupervised Neural Rendering for Image Hazing](https://arxiv.org/pdf/2107.06681), Boyun Li, **Yijie Lin**, Xiao Liu, Peng Hu, Jiancheng Lv, Xi Peng, **under review**
+- [Unsupervised Neural Rendering for Image Hazing](https://arxiv.org/pdf/2107.06681), Boyun Li, **Yijie Lin**, Xiao Liu, Peng Hu, Jiancheng Lv, Xi Peng, **TIP, 2022**
 
-
+<!-- under review -->
 
 # 🎖 Honors and Awards
 
