@@ -26,8 +26,8 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2022.08*: &nbsp; One paper was accepted by the IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
-- *2021.03*: &nbsp; One paper was accepted by the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021), Virtual-only Conference, Jun, 2021.
+- *2022.08*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
+- *2021.03*: &nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021), Virtual-only Conference, Jun, 2021.
 
 # 📝 Publications 
 
