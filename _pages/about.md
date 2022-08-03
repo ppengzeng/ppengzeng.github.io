@@ -31,8 +31,6 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 
 # 📝 Publications 
 
-- Dual Contrastive Prediction for Incomplete Multi-view Representation Learning,  **Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng, **TPAMI, 2022**
-
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/completer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -47,6 +45,8 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 <!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C -->
 </div>
 </div>
+
+- Dual Contrastive Prediction for Incomplete Multi-view Representation Learning,  **Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng, **TPAMI, 2022**
 
 - [Unsupervised Neural Rendering for Image Hazing](https://arxiv.org/pdf/2107.06681), Boyun Li, **Yijie Lin**, Xiao Liu, Peng Hu, Jiancheng Lv, Xi Peng, **TIP, 2022**
 
