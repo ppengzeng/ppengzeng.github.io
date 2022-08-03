@@ -26,9 +26,13 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2022.08*: &nbsp; One paper was accepted by the IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
 - *2021.03*: &nbsp; One paper was accepted by the IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021), Virtual-only Conference, Jun, 2021.
 
 # 📝 Publications 
+
+- Dual Contrastive Prediction for Incomplete Multi-view Representation Learning,  **Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng, **TPAMI, 2022**
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/completer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -70,9 +74,9 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 # 🙋 Service
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
-- Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Systems, Man and Cybernetics: Systems.
+- Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems.
 
-- Conference Reviewer of CICAI 2021, ICIG 2021, ACML 2021, PRCV 2021, PRCV 2022.
+- Conference Reviewer of AAAI 2023, CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022.
 
 
 <!-- 
