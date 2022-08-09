@@ -17,9 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, China. Currently, I’m a student of Professor [Xi Peng](http://pengxi.me).
+Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me). I am now a research intern at Ant Group.
 
-My research interests include Multimodal Learning and Unsupervised Learning, which can be unified to the framework of Representation Learning.
+My research interests include Multimodal Learning and Noisy Label Learning, especially Multimodal Learning in the Wild, e.g., modality missing and noisy correspondence (sentence-visual pairs).
+
+<!-- My research interests include Multimodal Learning and Unsupervised Learning, which can be unified to the framework of Representation Learning. -->
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -46,9 +48,9 @@ My research interests include Multimodal Learning and Unsupervised Learning, whi
 </div>
 </div>
 
-- Dual Contrastive Prediction for Incomplete Multi-view Representation Learning,  **Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng, **TPAMI, 2022**
+- [Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2022/08/DCP.pdf),  **Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng, **TPAMI, 2022**
 
-- [Unsupervised Neural Rendering for Image Hazing](https://arxiv.org/pdf/2107.06681), Boyun Li, **Yijie Lin**, Xiao Liu, Peng Hu, Jiancheng Lv, Xi Peng, **TIP, 2022**
+- [Unsupervised Neural Rendering for Image Hazing](https://ieeexplore.ieee.org/document/9788526/), Boyun Li, **Yijie Lin**, Xiao Liu, Peng Hu, Jiancheng Lv, Xi Peng, **TIP, 2022**
 
 <!-- under review -->
 
