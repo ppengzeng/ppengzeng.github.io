@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me). I am now a research intern at Ant Group.
 
-My research interests include Multimodal Learning and Noisy Label Learning, especially Multimodal Learning in the Wild, e.g., modality missing and noisy correspondence (sentence-visual pairs).
+My research interests include Multimodal Learning and Noisy Label Learning, especially Multimodal Learning in the Wild, e.g., missing modality and noisy correspondence (sentence-visual pairs).
 
 <!-- My research interests include Multimodal Learning and Unsupervised Learning, which can be unified to the framework of Representation Learning. -->
 
