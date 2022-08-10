@@ -76,7 +76,8 @@ My research interests include Multimodal Learning and Noisy Label Learning, espe
 # 🙋 Service
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
-- Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems.
+<!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
+- Journal Reviewer of IEEE TKDE, IEEE TNNLS, IEEE TCYB, IEEE TSMC.
 
 - Conference Reviewer of AAAI 2023, CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022.
 
