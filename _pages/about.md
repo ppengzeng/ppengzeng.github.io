@@ -54,6 +54,7 @@ My research interests include Multimodal Learning and Noisy Label Learning, espe
 </div>
 
 - [Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2022/08/DCP.pdf),  **Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng, **TPAMI, 2022**
+\|
 <a href="https://github.com/XLearning-SCU/2022-TPAMI-DCP"><strong>Project</strong></a>
 
 
