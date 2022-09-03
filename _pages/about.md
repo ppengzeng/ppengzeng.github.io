@@ -54,6 +54,9 @@ My research interests include Multimodal Learning and Noisy Label Learning, espe
 </div>
 
 - [Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2022/08/DCP.pdf),  **Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng, **TPAMI, 2022**
+<a href="https://github.com/XLearning-SCU/2022-TPAMI-DCP"><strong>Project</strong></a>
+
+
 
 - [Unsupervised Neural Rendering for Image Hazing](https://ieeexplore.ieee.org/document/9788526/), Boyun Li, **Yijie Lin**, Xiao Liu, Peng Hu, Jiancheng Lv, Xi Peng, **TIP, 2022**
 
@@ -82,10 +85,10 @@ My research interests include Multimodal Learning and Noisy Label Learning, espe
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
 <!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
-- Journal Reviewer of IEEE TKDE, IEEE TNNLS, IEEE TCYB, IEEE TSMC.
+- Journal Reviewer of IEEE TKDE, IEEE TNNLS, IEEE TCYB, IEEE TSMC, Machine Learning, Neural Networks.
 
-- Conference Reviewer of AAAI 2023, CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022.
-
+- Conference Reviewer of AAAI 2023.
+<!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
 
 <!-- 
 # 💬 Talks
