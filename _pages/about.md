@@ -19,7 +19,8 @@ redirect_from:
 
 Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me). I am now a research intern at Ant Group.
 
-My research interests include Multimodal Learning and Noisy Label Learning, especially Multimodal Learning in the Wild, e.g., missing modality and noisy correspondence (sentence-visual pairs).
+My research interests mainly focus on Multi-modal Learning and Multi-view Learning,especially the applications in open scenarios, e.g., missing modality and noisy correspondence.
+<!-- (sentence-visual pairs). -->
 
 <!-- My research interests include Multimodal Learning and Unsupervised Learning, which can be unified to the framework of Representation Learning. -->
 
@@ -28,7 +29,9 @@ My research interests include Multimodal Learning and Noisy Label Learning, espe
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2022.10*: &nbsp; One paper was accepted at Findings of EMNLP 2022.
 - *2022.08*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
+- *2022.05*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing  (TIP).
 - *2021.03*: &nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021), Virtual-only Conference, Jun, 2021.
 
 # 📝 Publications 
@@ -88,7 +91,7 @@ My research interests include Multimodal Learning and Noisy Label Learning, espe
 <!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
 - Journal Reviewer of IEEE TKDE, IEEE TNNLS, IEEE TCYB, IEEE TSMC, Machine Learning, Neural Networks.
 
-- Conference Reviewer of AAAI 2023.
+- Conference Reviewer of ICLR 2023, AAAI 2023.
 <!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
 
 <!-- 
