@@ -19,7 +19,7 @@ redirect_from:
 
 Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me). I am now a research intern at Ant Group.
 
-My research interests mainly focus on Multi-modal Learning and Multi-view Learning,especially the applications in open scenarios, e.g., missing modality and noisy correspondence.
+My research interests mainly focus on Multi-modal Learning and Multi-view Learning, especially the applications in open scenarios, e.g., missing modality and noisy correspondence.
 <!-- (sentence-visual pairs). -->
 
 <!-- My research interests include Multimodal Learning and Unsupervised Learning, which can be unified to the framework of Representation Learning. -->
@@ -60,7 +60,8 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 \|
 <a href="https://github.com/XLearning-SCU/2022-TPAMI-DCP"><strong>Project</strong></a>
 
-
+- Improve Interpretability of Neural Networks via Sparse Contrastive Coding, Junhong Liu*,
+**Yijie Lin***, Liang Jiang, Jia Liu, Zujie Wen, Xi Peng, **Findings of EMNLP, 2022**
 
 - [Unsupervised Neural Rendering for Image Hazing](https://ieeexplore.ieee.org/document/9788526/), Boyun Li, **Yijie Lin**, Xiao Liu, Peng Hu, Jiancheng Lv, Xi Peng, **TIP, 2022**
 
