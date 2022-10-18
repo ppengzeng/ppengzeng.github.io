@@ -60,7 +60,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 \|
 <a href="https://github.com/XLearning-SCU/2022-TPAMI-DCP"><strong>Project</strong></a>
 
-- Improve Interpretability of Neural Networks via Sparse Contrastive Coding, Junhong Liu\*,
+- [Improve Interpretability of Neural Networks via Sparse Contrastive Coding](http://pengxi.me/wp-content/uploads/2022/10/333_Paper.pdf), Junhong Liu\*,
 **Yijie Lin**\*, Liang Jiang, Jia Liu, Zujie Wen, Xi Peng, **Findings of EMNLP, 2022**
 
 - [Unsupervised Neural Rendering for Image Hazing](https://ieeexplore.ieee.org/document/9788526/), Boyun Li, **Yijie Lin**, Xiao Liu, Peng Hu, Jiancheng Lv, Xi Peng, **TIP, 2022**
