@@ -68,9 +68,9 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <!-- under review -->
 
 # 🎖 Honors and Awards
-
+- *2022.11* Huawei Scholarship 
 - *2021.10* Innovation Scholarship (Ph.D. student) 
-- *2019.09* National Scholarship (Undergraduate) (Top 1%)
+- *2019.09* [National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html) (Undergraduate) (Top 1%)
 
 
 <!-- # 📖 Educations
