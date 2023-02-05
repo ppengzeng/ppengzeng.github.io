@@ -56,7 +56,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/common.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/common.pdf' alt="sym" width="100%" height="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - [Graph Matching with Bi-level Noisy Correspondence](https://arxiv.org/pdf/2212.04085),  **Yijie Lin**, Mouxing Yang, Jun Yu, Peng Hu, Changqing Zhang, Xi Peng, Tech report, 2022.
