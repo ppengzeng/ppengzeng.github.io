@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me). I am now a research intern at Ant Group.
+Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me). I am now a research intern at Ant Group, doing video-language pretraining.
 
 My research interests mainly focus on Multi-modal Learning and Multi-view Learning, especially the applications in open scenarios, e.g., missing modality and noisy correspondence.
 <!-- (sentence-visual pairs). -->
@@ -59,20 +59,16 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/papers/common.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- [Graph Matching with Bi-level Noisy Correspondence](https://arxiv.org/pdf/2212.04085),  **Yijie Lin**, Mouxing Yang, Jun Yu, Peng Hu, Changqing Zhang, Xi Peng, Tech report, 2022.
+[Graph Matching with Bi-level Noisy Correspondence](https://arxiv.org/pdf/2212.04085),  **Yijie Lin**, Mouxing Yang, Jun Yu, Peng Hu, Changqing Zhang, Xi Peng, Tech report, 2022.
 
 Reveal the noisy correspondence problem in graph matching
 
 </div></div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/papers/dcp.pdf' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+
 - [Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2022/08/DCP.pdf),  **Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng, **TPAMI, 2022**
 \|
 <a href="https://github.com/XLearning-SCU/2022-TPAMI-DCP"><strong>Project</strong></a>
-
-</div></div>
-
 
 - [Improve Interpretability of Neural Networks via Sparse Contrastive Coding](http://pengxi.me/wp-content/uploads/2022/10/333_Paper.pdf), Junhong Liu\*,
 **Yijie Lin**\*, Liang Jiang, Jia Liu, Zujie Wen, Xi Peng, **Findings of EMNLP, 2022**
