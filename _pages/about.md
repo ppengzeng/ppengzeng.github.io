@@ -45,12 +45,12 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 
 <a href="https://www.bilibili.com/video/BV1Ub4y1a7Zy?spm_id_from=333.337.search-card.all.click&vd_source=c4896e9b68d2c7a283fe99a0899df781"><strong>Video</strong></a>
 \|
-<a href="https://github.com/XLearning-SCU/2021-CVPR-Completer"><strong>Project</strong></a>
-<!-- **Project**  -->
+<a href="https://cs.scu.edu.cn/info/1246/15640.htm"><strong>中文简介</strong></a>
+\|
+<a href="https://github.com/XLearning-SCU/2021-CVPR-Completer"><strong>Code</strong></a>
+<!-- **Code**  -->
 [![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-Completer?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-Completer)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-\|
-<a href="https://cs.scu.edu.cn/info/1246/15640.htm"><strong>中文简介</strong></a>
 <strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span></strong>
 <!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C -->
 
@@ -70,9 +70,10 @@ Reveal the noisy correspondence problem in graph matching
 
 - [Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2023/02/DCP-2023_compressed.pdf),  **Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng, **TPAMI, 2022**
 \|
-<a href="https://github.com/XLearning-SCU/2022-TPAMI-DCP"><strong>Project</strong></a>
-\|
 <a href="https://cs.scu.edu.cn/info/1246/17111.htm"><strong>中文简介</strong></a>
+\|
+<a href="https://github.com/XLearning-SCU/2022-TPAMI-DCP"><strong>Code</strong></a>
+
 
 - [Improve Interpretability of Neural Networks via Sparse Contrastive Coding](https://aclanthology.org/2022.findings-emnlp.32.pdf), Junhong Liu\*,
 **Yijie Lin**\*, Liang Jiang, Jia Liu, Zujie Wen, Xi Peng, **Findings of EMNLP, 2022**
@@ -82,7 +83,7 @@ Reveal the noisy correspondence problem in graph matching
 <!-- under review -->
 
 # 🎖 Honors and Awards
-- *2022.11* Huawei Scholarship at Sichuan University (first prize)
+- *2022.11* Huawei Scholarship at Sichuan University (First prize)
 - *2021.10* Innovation Scholarship (Ph.D. student) 
 - *2019.09* [National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html) (Undergraduate) (Top 1%)
 
