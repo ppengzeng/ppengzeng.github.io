@@ -83,7 +83,7 @@ Reveal the noisy correspondence problem in graph matching
 <!-- under review -->
 
 # 🎖 Honors and Awards
-- *2022.11* Huawei Scholarship at Sichuan University (First prize)
+- *2022.11* [Huawei Scholarship at Sichuan University](https://ygb.scu.edu.cn/info/1007/2515.htm) (First prize)
 - *2021.10* Innovation Scholarship (Ph.D. student) 
 - *2019.09* [National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html) (Undergraduate) (Top 1%)
 
@@ -107,7 +107,7 @@ Reveal the noisy correspondence problem in graph matching
 <!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
 - Journal Reviewer of IEEE TKDE, IEEE TNNLS, IEEE TCYB, IEEE TSMC, Machine Learning, Neural Networks.
 
-- Conference Reviewer of ICLR 2023, ICML 2023, AAAI 2023.
+- Conference Reviewer of ICLR 2023, ICML 2023, ICCV 2023, AAAI 2023.
 <!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
 
 <!-- 
