@@ -85,7 +85,7 @@ Reveal the noisy correspondence problem in graph matching
 # 🎖 Honors and Awards
 - *2022.11* [Huawei Scholarship at Sichuan University](https://ygb.scu.edu.cn/info/1007/2515.htm) (First prize)
 - *2021.10* Innovation Scholarship (Ph.D. student) 
-- *2019.09* [National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html) (Undergraduate) (Top 1%)
+- *2019.09* [National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html) (Undergraduate, Top 1%)
 
 
 <!-- # 📖 Educations
