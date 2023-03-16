@@ -80,7 +80,7 @@ Reveal the noisy correspondence problem in graph matching
 - `EMNLP Findings 2022` [Improve Interpretability of Neural Networks via Sparse Contrastive Coding](https://aclanthology.org/2022.findings-emnlp.32.pdf), Junhong Liu\*,
 **Yijie Lin**\*, Liang Jiang, Jia Liu, Zujie Wen, Xi Peng
 
-- `TNNLS 2023` Single-cell RNA-seq Debiased Clustering via Batch Effect Disentanglement, Yunfan Li, **Yijie Lin**, Han Luo, Peng Hu, Dezhong Peng, Xi Peng*, 
+- `TNNLS 2023` Single-cell RNA-seq Debiased Clustering via Batch Effect Disentanglement, Yunfan Li, **Yijie Lin**, Han Luo, Peng Hu, Dezhong Peng, Xi Peng 
 
 - `TIP 2022`  [Unsupervised Neural Rendering for Image Hazing](https://ieeexplore.ieee.org/document/9788526/), Boyun Li, **Yijie Lin**, Xiao Liu, Peng Hu, Jiancheng Lv, Xi Peng
 
