@@ -17,7 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! My name is Yijie Lin. I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me). I am now a research intern at Ant Group, doing video-language pretraining.
+<!-- Hi! My name is Yijie Lin.  -->
+I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me). I am now a research intern at Ant Group, doing video-language pretraining.
 
 My research interests mainly focus on Multi-modal Learning and Multi-view Learning, especially the applications in open scenarios, e.g., missing modality and noisy correspondence.
 <!-- (sentence-visual pairs). -->
@@ -79,7 +80,7 @@ Reveal the noisy correspondence problem in graph matching
 - `EMNLP Findings 2022` [Improve Interpretability of Neural Networks via Sparse Contrastive Coding](https://aclanthology.org/2022.findings-emnlp.32.pdf), Junhong Liu\*,
 **Yijie Lin**\*, Liang Jiang, Jia Liu, Zujie Wen, Xi Peng
 
-- `TNNLS 2023` Single-cell RNA-seq Debiased Clustering via Batch Effect Disentanglement,Yunfan Li, **Yijie Lin**, Han Luo, Peng Hu, Dezhong Peng, Xi Peng*, 
+- `TNNLS 2023` Single-cell RNA-seq Debiased Clustering via Batch Effect Disentanglement, Yunfan Li, **Yijie Lin**, Han Luo, Peng Hu, Dezhong Peng, Xi Peng*, 
 
 - `TIP 2022`  [Unsupervised Neural Rendering for Image Hazing](https://ieeexplore.ieee.org/document/9788526/), Boyun Li, **Yijie Lin**, Xiao Liu, Peng Hu, Jiancheng Lv, Xi Peng
 
