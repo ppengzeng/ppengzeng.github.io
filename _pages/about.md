@@ -58,7 +58,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C -->
 
 `TPAMI 2022` [Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2023/02/DCP-2023_compressed.pdf),  **Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng
-\|
+
 <a href="https://cs.scu.edu.cn/info/1246/17111.htm"><strong>中文简介</strong></a>
 \|
 <a href="https://github.com/XLearning-SCU/2022-TPAMI-DCP"><strong>Code</strong></a>
@@ -72,7 +72,8 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <img src='images/papers/common.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- `Tech Report` [Graph Matching with Bi-level Noisy Correspondence](https://arxiv.org/pdf/2212.04085),  **Yijie Lin**, Mouxing Yang, Jun Yu, Peng Hu, Changqing Zhang, Xi Peng
+`Tech Report` [Graph Matching with Bi-level Noisy Correspondence](https://arxiv.org/pdf/2212.04085),  **Yijie Lin**, Mouxing Yang, Jun Yu, Peng Hu, Changqing Zhang, Xi Peng
+
 Reveal the noisy correspondence problem in graph matching
 
 </div></div>
