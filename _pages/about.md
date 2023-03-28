@@ -55,6 +55,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span></strong>
 <!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C -->
 
+
 [Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2023/02/DCP-2023_compressed.pdf),  **Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng
 
 <a href="https://cs.scu.edu.cn/info/1246/17111.htm"><strong>中文简介</strong></a>
@@ -119,7 +120,7 @@ Reveal the noisy correspondence problem in graph matching
 <!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
 - Journal Reviewer of IEEE TKDE, IEEE TNNLS, IEEE TCYB, IEEE TSMC, Machine Learning, Neural Networks.
 
-- Conference Reviewer of ICLR 2023, ICML 2023, ICCV 2023, AAAI 2023.
+- Conference Reviewer of ICLR 2023, NeurIPS 2023, ICML 2023, ICCV 2023, AAAI 2023.
 <!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
 
 <!-- 
