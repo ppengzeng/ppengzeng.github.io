@@ -62,7 +62,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 \|
 <a href="https://github.com/XLearning-SCU/2022-TPAMI-DCP"><strong>Code</strong></a>
 [![](https://img.shields.io/github/stars/XLearning-SCU/2022-TPAMI-DCP?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-TPAMI-DCP)
-
+<strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:UeHWp8X0CEIC'></span></strong>
 </div>
 </div>
 
