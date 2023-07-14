@@ -30,6 +30,8 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2023.07*: &nbsp; One paper was accepted by International Conference
+on Computer Vision (ICCV 2023).
 - *2022.10*: &nbsp; One paper was accepted at Findings of EMNLP 2022.
 - *2022.08*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
 - *2022.05*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing  (TIP).
@@ -69,7 +71,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Tech report</div><img src='images/papers/common.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/common.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Graph Matching with Bi-level Noisy Correspondence](https://arxiv.org/pdf/2212.04085) \\
