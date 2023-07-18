@@ -83,7 +83,8 @@ on Computer Vision (ICCV 2023).
 
 - Reveal the noisy correspondence problem in graph matching
 
-- This work is included by famous graph matching open-source projects, [ThinkMatch](https://GitHub.com/Thinklab-SJTU/ThinkMatch/)[![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/ThinkMatch.svg?style=social&label=Star&maxAge=8640)](https://GitHub.com/Thinklab-SJTU/ThinkMatch/)
+- This work is included by famous graph matching projects, [ThinkMatch](https://GitHub.com/Thinklab-SJTU/ThinkMatch/)
+[![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/ThinkMatch.svg?style=social&label=Star&maxAge=8640)](https://GitHub.com/Thinklab-SJTU/ThinkMatch/)
 
 </div></div>
 
