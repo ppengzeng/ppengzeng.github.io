@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me).
+Hi, My name is Mouxing Yang (杨谋星). I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me).
 
 My research interests mainly focus on Multi-modal Learning and Multi-view Learning, especially the applications in the wild, e.g., missing modality and noisy correspondence.
 
