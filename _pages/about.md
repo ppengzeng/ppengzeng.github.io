@@ -51,14 +51,10 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 
 <strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>
 
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span></strong>
-<!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C -->
-
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/dart.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/papers/sure.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust Multi-view Clustering with Incomplete Information](http://pengxi.me/wp-content/uploads/2022/03/Robust-Multi-view-Clustering-with-Incomplete-Information.pdf) \\
@@ -70,15 +66,13 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <a href="https://github.com/XLearning-SCU/2022-TPAMI-SURE"><strong>Code</strong></a>
 <!-- **Code**  -->
 [![](https://img.shields.io/github/stars/XLearning-SCU/2022-TPAMI-SURE?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:9yKSN-GCB0IC'></span></strong>
-<!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=IaRmgrEAAAAJ&citation_for_view=IaRmgrEAAAAJ:9yKSN-GCB0IC -->
 
 </div>
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/common.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/papers/mvcln.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf) \\
@@ -91,36 +85,21 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <a href="https://github.com/XLearning-SCU/2021-CVPR-MvCLN"><strong>Code</strong></a>
 <!-- **Code**  -->
 [![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-MvCLN?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 <strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:u-x6o8ySG0sC'></span></strong>
-<!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=IaRmgrEAAAAJ&citation_for_view=IaRmgrEAAAAJ:u-x6o8ySG0sC -->
 
 </div></div>
 
+- `ICCV 2023` [Graph Matching with Bi-level Noisy Correspondence](https://arxiv.org/pdf/2212.04085.pdf), Yijie Lin, **Mouxing Yang**, Jun Yu, Peng Hu, Changqing Zhang, Xi Peng
 
-<!-- - `TPAMI 2022` [Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2023/02/DCP-2023_compressed.pdf),  **Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng
-\|
-<a href="https://cs.scu.edu.cn/info/1246/17111.htm"><strong>中文简介</strong></a>
-\|
-<a href="https://github.com/XLearning-SCU/2022-TPAMI-DCP"><strong>Code</strong></a> -->
+- `IJCAI 2023` [Incomplete Multi-view Clustering via Prototype-based Imputation](https://arxiv.org/pdf/2301.11045.pdf), Haobin Li, Yunfan Li, **Mouxing Yang**, Peng Hu, Dezhong Peng, Xi Peng 
 
-
-- `EMNLP Findings 2022` [Improve Interpretability of Neural Networks via Sparse Contrastive Coding](https://aclanthology.org/2022.findings-emnlp.32.pdf), Junhong Liu\*,
-**Yijie Lin**\*, Liang Jiang, Jia Liu, Zujie Wen, Xi Peng
-
-- `TNNLS 2023` [Single-cell RNA-seq Debiased Clustering via Batch Effect Disentanglement](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10086540), Yunfan Li, **Yijie Lin**, Han Luo, Peng Hu, Dezhong Peng, Xi Peng 
-
-- `TIP 2022`  [Unsupervised Neural Rendering for Image Hazing](https://ieeexplore.ieee.org/document/9788526/), Boyun Li, **Yijie Lin**, Xiao Liu, Peng Hu, Jiancheng Lv, Xi Peng
-
-
-
+- `IJCV 2022`  [Twin Contrastive Learning for Online Clustering](http://pengxi.me/wp-content/uploads/2022/07/Twin-Contrastive-Learning-for-Online-Clustering.pdf), Yunfan Li, **Mouxing Yang**, Dezhong Peng, Taihao Li, Jiantao Huang, Xi Peng
 
 <!-- under review -->
 
 # 🎖 Honors and Awards
-- *2022.11* [Huawei Scholarship at Sichuan University](https://ygb.scu.edu.cn/info/1007/2515.htm) (First prize)
-- *2021.10* Innovation Scholarship (Ph.D. student) 
-- *2019.09* [National Scholarship](http://www.moe.gov.cn/srcsite/A05/s7505/201912/t20191217_412368.html) (Undergraduate, Top 1%)
+- *2022.10* National Scholarship
+- *2021.10* National Scholarship
 
 
 <!-- # 📖 Educations
@@ -140,9 +119,9 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
 <!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
-- **Journal Reviewer**: IEEE TKDE, IEEE TNNLS, IEEE TCYB, IEEE TSMC, Machine Learning, Neural Networks.
+- **Journal Reviewer**: IEEE TPAMI, IEEE TCSVT, IEEE TSMC, etc.
 
-- **Conference Reviewer**: ICLR, NeurIPS, ICML, ICCV, AAAI.
+- **Conference Reviewer**: ICLR, NeurIPS, ICML, CVPR, ICCV, AAAI, etc.
 <!-- - Conference Reviewer: of ICLR 2023, NeurIPS 2023, ICML 2023, ICCV 2023, AAAI 2023. -->
 <!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
 
