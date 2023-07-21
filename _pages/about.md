@@ -24,8 +24,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2023.07*: &nbsp; One paper was accepted by International Conference
-on Computer Vision (ICCV 2023).
+- *2023.07*: &nbsp; One paper was accepted by International Conference on Computer Vision (ICCV 2023).
 - *2023.04*: &nbsp; One paper was accepted by International Joint Conference on Artificial Intelligence (IJCAI 2023).
 - *2022.06*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV).
 - *2022.03*: &nbsp; One paper was accepted by Computer Vision and Pattern Recognition (CVPR 2022).
@@ -49,9 +48,12 @@ on Computer Vision (ICCV 2023).
 <a href="https://github.com/XLearning-SCU/2022-CVPR-DART"><strong>Code</strong></a>
 <!-- **Code**  -->
 [![](https://img.shields.io/github/stars/XLearning-SCU/2022-CVPR-DART?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-CVPR-DART)
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+
 <strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>
-<!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=IaRmgrEAAAAJ&citation_for_view=IaRmgrEAAAAJ:UeHWp8X0CEIC -->
+
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span></strong>
+<!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C -->
 
 </div>
 </div>
