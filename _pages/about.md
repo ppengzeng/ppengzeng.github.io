@@ -79,17 +79,19 @@ on Computer Vision (ICCV 2023).
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/papers/common.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Graph Matching with Bi-level Noisy Correspondence](https://arxiv.org/pdf/2212.04085) \\
-**Yijie Lin**, Mouxing Yang, Jun Yu, Peng Hu, Changqing Zhang, Xi Peng
+[Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf) \\
+**Mouxing Yang**, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng
 
-<a href="https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON"><strong>Code</strong></a>
+<a href="https://www.bilibili.com/video/BV1JT4y1d7wT/?vd_source=73acb46dd11b80ed254195aeb45e65fa"><strong>Video</strong></a>
+\|
+<a href="https://cs.scu.edu.cn/info/1246/15640.htm"><strong>中文简介</strong></a>
+\|
+<a href="https://github.com/XLearning-SCU/2021-CVPR-MvCLN"><strong>Code</strong></a>
 <!-- **Code**  -->
-[![](https://img.shields.io/github/stars/Lin-Yijie/Graph-Matching-Networks?style=social&label=Stars)](https://github.com/Lin-Yijie/Graph-Matching-Networks/tree/main/COMMON)
-
-- Reveal the noisy correspondence problem in graph matching
-
-- This work is included by famous open-source graph matching project [ThinkMatch](https://GitHub.com/Thinklab-SJTU/ThinkMatch/)
-[![GitHub stars](https://img.shields.io/github/stars/Thinklab-SJTU/ThinkMatch.svg?style=social&label=Star&maxAge=8640)](https://GitHub.com/Thinklab-SJTU/ThinkMatch/)
+[![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-MvCLN?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:u-x6o8ySG0sC'></span></strong>
+<!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=IaRmgrEAAAAJ&citation_for_view=IaRmgrEAAAAJ:u-x6o8ySG0sC -->
 
 </div></div>
 
