@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Mouxing Yang"
 description              : ""
-repository               : "mouxingyang/Yang-Mouxing.github.io/"
+repository               : "mouxingyang/yangmouxing.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Yang-Mouxing" # e.g., "github username"
+  github           : "mouxingyang" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
