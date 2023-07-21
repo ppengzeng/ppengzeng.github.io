@@ -17,56 +17,61 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-<!-- Hi! My name is Yijie Lin.  -->
-I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me). I am now a research intern at Ant Group, doing video-language pretraining.
+I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me).
 
-My research interests mainly focus on Multi-modal Learning and Multi-view Learning, especially the applications in open scenarios, e.g., missing modality and noisy correspondence.
-<!-- (sentence-visual pairs). -->
-
-<!-- My research interests include Multimodal Learning and Unsupervised Learning, which can be unified to the framework of Representation Learning. -->
-
-<!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
+My research interests mainly focus on Multi-modal Learning and Multi-view Learning, especially the applications in the wild, e.g., missing modality and noisy correspondence.
 
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 - *2023.07*: &nbsp; One paper was accepted by International Conference
 on Computer Vision (ICCV 2023).
-- *2022.10*: &nbsp; One paper was accepted at Findings of EMNLP 2022.
-- *2022.08*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)!
-- *2022.05*: &nbsp; One paper was accepted by IEEE Transactions on Image Processing  (TIP).
-- *2021.03*: &nbsp; One paper was accepted by IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2021), Virtual-only Conference, Jun, 2021.
+- *2023.04*: &nbsp; One paper was accepted by International Joint Conference on Artificial Intelligence (IJCAI 2023).
+- *2022.06*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV).
+- *2022.03*: &nbsp; One paper was accepted by Computer Vision and Pattern Recognition (CVPR 2022).
+- *2022.02*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- *2021.03*: &nbsp; One paper was accepted by Computer Vision and Pattern Recognition (CVPR 2021).
 
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021, TPAMI 2022</div><img src='images/papers/completer.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/dart.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[COMPLETER: Incomplete Multi-view Clustering via Contrastive Prediction](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_COMPLETER_Incomplete_Multi-View_Clustering_via_Contrastive_Prediction_CVPR_2021_paper.pdf) \\
- **Yijie Lin**, Yuanbiao Gou, Zitao Liu, Boyun Li, Jiancheng Lv, Xi Peng
+[Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Learning_With_Twin_Noisy_Labels_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf) \\
+ **Mouxing Yang**, Zhenyu Huang, Peng Hu, Taihao Li, Jiancheng Lv, Xi Peng
 
 
-<a href="https://www.bilibili.com/video/BV1Ub4y1a7Zy?spm_id_from=333.337.search-card.all.click&vd_source=c4896e9b68d2c7a283fe99a0899df781"><strong>Video</strong></a>
+<a href="https://www.bilibili.com/video/BV1bS4y1h7k3/?vd_source=73acb46dd11b80ed254195aeb45e65fa"><strong>Video</strong></a>
 \|
-<a href="https://cs.scu.edu.cn/info/1246/15640.htm"><strong>中文简介</strong></a>
+<a href="https://cs.scu.edu.cn/info/1246/16829.htm"><strong>中文简介</strong></a>
 \|
-<a href="https://github.com/XLearning-SCU/2021-CVPR-Completer"><strong>Code</strong></a>
+<a href="https://github.com/XLearning-SCU/2022-CVPR-DART"><strong>Code</strong></a>
 <!-- **Code**  -->
-[![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-Completer?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-Completer)
+[![](https://img.shields.io/github/stars/XLearning-SCU/2022-CVPR-DART?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-CVPR-DART)
 <!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span></strong>
-<!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C -->
+<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>
+<!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=IaRmgrEAAAAJ&citation_for_view=IaRmgrEAAAAJ:UeHWp8X0CEIC -->
 
+</div>
+</div>
 
-[Dual Contrastive Prediction for Incomplete Multi-view Representation Learning](http://pengxi.me/wp-content/uploads/2023/02/DCP-2023_compressed.pdf) \\
-**Yijie Lin**, Yuanbiao Gou, Xiaotian Liu, Jinfeng Bai, Jiancheng Lv, Xi Peng
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/dart.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Multi-view Clustering with Incomplete Information](http://pengxi.me/wp-content/uploads/2022/03/Robust-Multi-view-Clustering-with-Incomplete-Information.pdf) \\
+ **Mouxing Yang**, Yunfan Li, Peng Hu, Jinfeng Bai, Jiancheng Lv, Xi Peng
+
 
 <a href="https://cs.scu.edu.cn/info/1246/17111.htm"><strong>中文简介</strong></a>
 \|
-<a href="https://github.com/XLearning-SCU/2022-TPAMI-DCP"><strong>Code</strong></a>
-[![](https://img.shields.io/github/stars/XLearning-SCU/2022-TPAMI-DCP?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-TPAMI-DCP)
-<strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:UeHWp8X0CEIC'></span></strong>
+<a href="https://github.com/XLearning-SCU/2022-TPAMI-SURE"><strong>Code</strong></a>
+<!-- **Code**  -->
+[![](https://img.shields.io/github/stars/XLearning-SCU/2022-TPAMI-SURE?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
+<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
+<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:9yKSN-GCB0IC'></span></strong>
+<!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=IaRmgrEAAAAJ&citation_for_view=IaRmgrEAAAAJ:9yKSN-GCB0IC -->
+
 </div>
 </div>
 
