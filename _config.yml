@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yijie Lin"
+title                    : "Mouxing Yang"
 description              : ""
-repository               : "Lin-Yijie/lin-yijie.github.io"
+repository               : "mouxingyang/Yang-Mouxing.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yijie Lin (林义杰)"
+  name             : "Mouxing Yang (杨谋星)"
   avatar           : "images/me.jpg"
   bio              : "Sichuan University"
   location         : "Chengdu, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=KXKVYHsAAAAJ"
-  email            : "linyijie.gm@gmail.com"
+  googlescholar    : "https://scholar.google.com/citations?user=IaRmgrEAAAAJ"
+  email            : "yangmouxing@gmail.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Lin-Yijie" # e.g., "github username"
+  github           : "Yang-Mouxing" # e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
