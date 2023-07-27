@@ -50,6 +50,8 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 
 <strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>
 
+**Reveal the twin noisy label problem (noisy annotation and the accompanying noisy correspondence).**
+
 </div>
 </div>
 
@@ -67,13 +69,14 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 [![](https://img.shields.io/github/stars/XLearning-SCU/2022-TPAMI-SURE?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
 <strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:9yKSN-GCB0IC'></span></strong>
 
+**The FIRST unified multi-view learning framework to solve both Partially View-unaligned Problem (PVP) and Partially Sample-missing Problem (PSP).** 
+
 </div>
 </div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/papers/mvcln.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf) \\
 **Mouxing Yang**, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng
 
@@ -85,6 +88,8 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <!-- **Code**  -->
 [![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-MvCLN?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
 <strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:u-x6o8ySG0sC'></span></strong>
+
+**Design a false-negative (FN) robust contrastive loss and validate the loss in unsupervised multi-view clustering and classification tasks.**
 
 </div></div>
 
