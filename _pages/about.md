@@ -40,7 +40,6 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 [Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Learning_With_Twin_Noisy_Labels_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf) \\
  **Mouxing Yang**, Zhenyu Huang, Peng Hu, Taihao Li, Jiancheng Lv, Xi Peng
 
-
 <a href="https://www.bilibili.com/video/BV1bS4y1h7k3/?vd_source=73acb46dd11b80ed254195aeb45e65fa"><strong>Video</strong></a>
 \|
 <a href="https://cs.scu.edu.cn/info/1246/16829.htm"><strong>中文简介</strong></a>
@@ -49,11 +48,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <!-- **Code**  -->
 [![](https://img.shields.io/github/stars/XLearning-SCU/2022-CVPR-DART?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-CVPR-DART)
 
-<!-- <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<strong><span class='show_paper_citations' data='KXKVYHsAAAAJ:d1gkVwhDpl0C'></span></strong>
-<!-- https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=KXKVYHsAAAAJ:d1gkVwhDpl0C -->
-
-<!--<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>-->
+<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>
 
 </div>
 </div>
