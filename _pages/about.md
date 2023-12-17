@@ -24,6 +24,9 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2023.12*: &nbsp; One paper was accepted by The AAAI Conference on Artificial Intelligence (AAAI 2024).
+- *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- *2023.09*: &nbsp; One paper was accepted by Nature Communications.
 - *2023.07*: &nbsp; One paper was accepted by International Conference on Computer Vision (ICCV 2023).
 - *2023.04*: &nbsp; One paper was accepted by International Joint Conference on Artificial Intelligence (IJCAI 2023).
 - *2022.06*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV).
@@ -102,6 +105,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <!-- under review -->
 
 # 🎖 Honors and Awards
+- *2023.10* PhD student Innovation Scholarship
 - *2022.10* National Scholarship
 - *2021.10* National Scholarship
 
