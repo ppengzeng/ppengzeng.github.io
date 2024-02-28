@@ -24,19 +24,20 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
-- *2024.01*: &nbsp; One paper was accepted by International Conference on Learning Representations (ICLR 2024).
-- *2024.01*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV).
+- *2024.02*: &nbsp; One co-first-authored paper was accepted by IEEE Transactions on Image Processing (TIP).
+- *2024.01*: &nbsp; One first-authored paper was accepted by International Conference on Learning Representations (ICLR 2024).
+- *2024.01*: &nbsp; One first-authored paper was accepted by International Journal of Computer Vision (IJCV).
 - *2023.12*: &nbsp; One paper was accepted by The AAAI Conference on Artificial Intelligence (AAAI 2024).
 - *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 - *2023.09*: &nbsp; One paper was accepted by Nature Communications.
 - *2023.07*: &nbsp; One paper was accepted by International Conference on Computer Vision (ICCV 2023).
 - *2023.04*: &nbsp; One paper was accepted by International Joint Conference on Artificial Intelligence (IJCAI 2023).
 - *2022.06*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV).
-- *2022.03*: &nbsp; One paper was accepted by Computer Vision and Pattern Recognition (CVPR 2022).
-- *2022.02*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-- *2021.03*: &nbsp; One paper was accepted by Computer Vision and Pattern Recognition (CVPR 2021).
+- *2022.03*: &nbsp; One first-authored paper was accepted by Computer Vision and Pattern Recognition (CVPR 2022).
+- *2022.02*: &nbsp; One first-authored paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- *2021.03*: &nbsp; One first-authored paper was accepted by Computer Vision and Pattern Recognition (CVPR 2021).
 
-# 📝 Publications 
+# 📝 Selective Publications 
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/dart.jpg' alt="sym" width="100%"></div></div>
@@ -129,6 +130,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
 
 <!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
+
 - **Journal Reviewer**: IEEE TPAMI, IEEE TCSVT, IEEE TSMC, etc.
 
 - **Conference Reviewer**: ICLR, NeurIPS, ICML, CVPR, ICCV, AAAI, etc.
