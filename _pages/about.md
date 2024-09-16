@@ -17,13 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is Mouxing Yang (杨谋星). I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, advised by Prof.[Xi Peng](http://pengxi.me).
+Hi, My name is Mouxing Yang (杨谋星). I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, fortunately advised by Prof.[Xi Peng](http://pengxi.me).
 
-My research interests mainly focus on Multi-modal Learning and Multi-view Learning, especially the applications in the wild, e.g., missing modality and noisy correspondence.
+My research interests mainly focus on Multi-modal Learning and Multi-view Learning, especially the challenges encountered in open scenarios, such as missing modalities, imbalanced modalties and noisy correspondence. For more insights on noisy correspondence, please refer to our repository: [Noisy Correspondence Summary](https://github.com/XLearning-SCU/Awesome-Noisy-Correspondence).
 
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+- *2024.09*: &nbsp; One co-first-authored paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 - *2024.02*: &nbsp; One co-first-authored paper was accepted by IEEE Transactions on Image Processing (TIP).
 - *2024.01*: &nbsp; One first-authored paper was accepted by International Conference on Learning Representations (ICLR 2024).
 - *2024.01*: &nbsp; One first-authored paper was accepted by International Journal of Computer Vision (IJCV).
@@ -37,83 +39,26 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 - *2022.02*: &nbsp; One first-authored paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 - *2021.03*: &nbsp; One first-authored paper was accepted by Computer Vision and Pattern Recognition (CVPR 2021).
 
-# 📝 Selective Publications 
+# 📝 Selected Publications 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2022</div><img src='images/papers/dart.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Learning_With_Twin_Noisy_Labels_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf) \\
- **Mouxing Yang**, Zhenyu Huang, Peng Hu, Taihao Li, Jiancheng Lv, Xi Peng
-
-<a href="https://www.bilibili.com/video/BV1bS4y1h7k3/?vd_source=73acb46dd11b80ed254195aeb45e65fa"><strong>Video</strong></a>
-\|
-<a href="https://cs.scu.edu.cn/info/1246/16829.htm"><strong>中文简介</strong></a>
-\|
-<a href="https://github.com/XLearning-SCU/2022-CVPR-DART"><strong>Code</strong></a>
-<!-- **Code**  -->
-[![](https://img.shields.io/github/stars/XLearning-SCU/2022-CVPR-DART?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-CVPR-DART)
-
-<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:UeHWp8X0CEIC'></span></strong>
-
-**Reveal the twin noisy label problem (noisy annotation and the accompanying noisy correspondence).**
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2022</div><img src='images/papers/sure.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Robust Multi-view Clustering with Incomplete Information](http://pengxi.me/wp-content/uploads/2022/03/Robust-Multi-view-Clustering-with-Incomplete-Information.pdf) \\
- **Mouxing Yang**, Yunfan Li, Peng Hu, Jinfeng Bai, Jiancheng Lv, Xi Peng
-
-
-<a href="https://cs.scu.edu.cn/info/1246/17111.htm"><strong>中文简介</strong></a>
-\|
-<a href="https://github.com/XLearning-SCU/2022-TPAMI-SURE"><strong>Code</strong></a>
-<!-- **Code**  -->
-[![](https://img.shields.io/github/stars/XLearning-SCU/2022-TPAMI-SURE?style=social&label=Stars)](https://github.com/XLearning-SCU/2022-TPAMI-SURE)
-<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:9yKSN-GCB0IC'></span></strong>
-
-**The FIRST unified multi-view learning framework to solve both Partially View-unaligned Problem (PVP) and Partially Sample-missing Problem (PSP).** 
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2021</div><img src='images/papers/mvcln.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-[Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf) \\
-**Mouxing Yang**, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng
-
-<a href="https://www.bilibili.com/video/BV1JT4y1d7wT/?vd_source=73acb46dd11b80ed254195aeb45e65fa"><strong>Video</strong></a>
-\|
-<a href="https://cs.scu.edu.cn/info/1246/15640.htm"><strong>中文简介</strong></a>
-\|
-<a href="https://github.com/XLearning-SCU/2021-CVPR-MvCLN"><strong>Code</strong></a>
-<!-- **Code**  -->
-[![](https://img.shields.io/github/stars/XLearning-SCU/2021-CVPR-MvCLN?style=social&label=Stars)](https://github.com/XLearning-SCU/2021-CVPR-MvCLN)
-<strong><span class='show_paper_citations' data='IaRmgrEAAAAJ:u-x6o8ySG0sC'></span></strong>
-
-**Design a false-negative (FN) robust contrastive loss and validate the loss in unsupervised multi-view clustering and classification tasks.**
-
-</div></div>
-
-- `ICCV 2023` [Graph Matching with Bi-level Noisy Correspondence](https://arxiv.org/pdf/2212.04085.pdf), Yijie Lin, **Mouxing Yang**, Jun Yu, Peng Hu, Changqing Zhang, Xi Peng
-
-- `IJCAI 2023` [Incomplete Multi-view Clustering via Prototype-based Imputation](https://arxiv.org/pdf/2301.11045.pdf), Haobin Li, Yunfan Li, **Mouxing Yang**, Peng Hu, Dezhong Peng, Xi Peng 
-
-- `IJCV 2022`  [Twin Contrastive Learning for Online Clustering](http://pengxi.me/wp-content/uploads/2022/07/Twin-Contrastive-Learning-for-Online-Clustering.pdf), Yunfan Li, **Mouxing Yang**, Dezhong Peng, Taihao Li, Jiantao Huang, Xi Peng
+- `TPAMI 2024` Noise-robust Vision-language Pre-training with Positive-negative Learning (under publication), Zhenyu Huang#, **Mouxing Yang**#, Xinyan Xiao, Peng Hu, Xi Peng
+- `TIP 2024` [Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining](http://pengxi.me/wp-content/uploads/2024/03/pengxime-online.pdf), Xinran Ma#, **Mouxing Yang**#, Yunfan Li, Peng Hu, Jiancheng Lv, **Xi Peng**
+- `ICLR 2024` [Test-time Adaption against Multi-modal Reliability Bias](https://openreview.net/pdf?id=TPZRq4FALB), **Mouxing Yang**, Yunfan Li, Changqing Zhang, Peng Hu, Xi Peng
+- `IJCV 2024` [Robust Object Re-identification with Coupled Noisy Labels](http://pengxi.me/wp-content/uploads/2024/02/online_version.pdf), **Mouxing Yang**, Zhenyu Huang, Xi Peng
+- `CVPR 2022` [Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Learning_With_Twin_Noisy_Labels_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf), **Mouxing Yang**, Zhenyu Huang, Peng Hu, Taihao Li, Jiancheng Lv, Xi Peng
+- `TPAMI 2022` [Robust Multi-view Clustering with Incomplete Information](http://pengxi.me/wp-content/uploads/2022/03/Robust-Multi-view-Clustering-with-Incomplete-Information.pdf), **Mouxing Yang**, Yunfan Li, Peng Hu, Jinfeng Bai, Jiancheng Lv, Xi Peng
+- `CVPR 2021` [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf), **Mouxing Yang**, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng
 
 <!-- under review -->
 
 # 🎖 Honors and Awards
+- *2024.05* CASC Scholarship (中国航天科技集团奖学金，一等) 
 - *2023.10* PhD student Innovation Scholarship
 - *2022.10* National Scholarship
 - *2021.10* National Scholarship
 
-
 <!-- # 📖 Educations
+
 - 2020.09 - now, Ph.D. student, Sichuan Univeristy, Chengdu.
 - 2016.09 - 2020.06, Undergraduate, Sichuan Univeristy, Chengdu. -->
 
@@ -131,9 +76,9 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 
 <!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
 
-- **Journal Reviewer**: IEEE TPAMI, IEEE TCSVT, IEEE TSMC, etc.
+- **Journal Reviewer**: IEEE TPAMI, IEEE TIP, IEEE TKDE, etc.
 
-- **Conference Reviewer**: ICLR, NeurIPS, ICML, CVPR, ICCV, AAAI, etc.
+- **Conference Reviewer**: ICLR, NeurIPS, ICML, CVPR, ICCV, etc.
 <!-- - Conference Reviewer: of ICLR 2023, NeurIPS 2023, ICML 2023, ICCV 2023, AAAI 2023. -->
 <!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
 
