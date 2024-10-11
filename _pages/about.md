@@ -26,6 +26,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 - *2024.09*: &nbsp; One co-first-authored paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- *2024.09*: &nbsp; One co-first-authored paper was accepted by Conference on Neural Information Processing Systems (NeurIPS 2024).
 - *2024.02*: &nbsp; One co-first-authored paper was accepted by IEEE Transactions on Image Processing (TIP).
 - *2024.01*: &nbsp; One first-authored paper was accepted by International Conference on Learning Representations (ICLR 2024).
 - *2024.01*: &nbsp; One first-authored paper was accepted by International Journal of Computer Vision (IJCV).
@@ -41,8 +42,11 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 
 # 📝 Selected Publications 
 
-- `TPAMI 2024` Noise-robust Vision-language Pre-training with Positive-negative Learning (under publication), Zhenyu Huang#, **Mouxing Yang**#, Xinyan Xiao, Peng Hu, Xi Peng
-- `TIP 2024` [Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining](http://pengxi.me/wp-content/uploads/2024/03/pengxime-online.pdf), Xinran Ma#, **Mouxing Yang**#, Yunfan Li, Peng Hu, Jiancheng Lv, **Xi Peng**
+(#: Equal contribution)
+
+- `TPAMI 2024` [Noise-robust Vision-language Pre-training with Positive-negative Learning](https://ieeexplore.ieee.org/abstract/document/10684058), Zhenyu Huang#, **Mouxing Yang**#, Xinyan Xiao, Peng Hu, Xi Peng
+- `TIP 2024` [Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining](http://pengxi.me/wp-content/uploads/2024/03/pengxime-online.pdf), Xinran Ma#, **Mouxing Yang**#, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng
+- `NeurIPS 2024` Robust Contrastive Multi-view Clustering against Dual Noisy Correspondence, Ruiming Guo#, **Mouxing Yang**#, Yijie Lin, Xi Peng, Peng Hu
 - `ICLR 2024` [Test-time Adaption against Multi-modal Reliability Bias](https://openreview.net/pdf?id=TPZRq4FALB), **Mouxing Yang**, Yunfan Li, Changqing Zhang, Peng Hu, Xi Peng
 - `IJCV 2024` [Robust Object Re-identification with Coupled Noisy Labels](http://pengxi.me/wp-content/uploads/2024/02/online_version.pdf), **Mouxing Yang**, Zhenyu Huang, Xi Peng
 - `CVPR 2022` [Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Learning_With_Twin_Noisy_Labels_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf), **Mouxing Yang**, Zhenyu Huang, Peng Hu, Taihao Li, Jiancheng Lv, Xi Peng
