@@ -56,6 +56,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <!-- under review -->
 
 # 🎖 Honors and Awards
+- *2024.11* National Scholarship
 - *2024.05* CASC Scholarship (中国航天科技集团奖学金，一等) 
 - *2023.10* PhD student Innovation Scholarship
 - *2022.10* National Scholarship
