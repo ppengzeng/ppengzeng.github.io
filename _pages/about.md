@@ -56,6 +56,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <!-- under review -->
 
 # 🎖 Honors and Awards
+- *2024.12* National Natural Science Foundation Young Student Basic Research Project (Ph.D. students)
 - *2024.11* National Scholarship
 - *2024.05* CASC Scholarship (中国航天科技集团奖学金，一等) 
 - *2023.10* PhD student Innovation Scholarship
@@ -67,8 +68,8 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 - 2020.09 - now, Ph.D. student, Sichuan Univeristy, Chengdu.
 - 2016.09 - 2020.06, Undergraduate, Sichuan Univeristy, Chengdu. -->
 
-
 <!-- 
+
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
