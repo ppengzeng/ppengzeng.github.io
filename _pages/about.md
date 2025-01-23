@@ -25,26 +25,28 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
+- *2025.01*: &nbsp; One paper as corresponding author has been accepted by International Conference on Learning Representations (ICLR 2025).
 - *2024.12*：I granted National Natural Science Foundation Young Student Basic Research Project (for Ph.D. students).
-- *2024.09*: &nbsp; One co-first-authored paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-- *2024.09*: &nbsp; One co-first-authored paper was accepted by Conference on Neural Information Processing Systems (NeurIPS 2024).
-- *2024.02*: &nbsp; One co-first-authored paper was accepted by IEEE Transactions on Image Processing (TIP).
-- *2024.01*: &nbsp; One first-authored paper was accepted by International Conference on Learning Representations (ICLR 2024).
-- *2024.01*: &nbsp; One first-authored paper was accepted by International Journal of Computer Vision (IJCV).
-- *2023.12*: &nbsp; One paper was accepted by The AAAI Conference on Artificial Intelligence (AAAI 2024).
-- *2023.11*: &nbsp; One paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-- *2023.09*: &nbsp; One paper was accepted by Nature Communications.
-- *2023.07*: &nbsp; One paper was accepted by International Conference on Computer Vision (ICCV 2023).
-- *2023.04*: &nbsp; One paper was accepted by International Joint Conference on Artificial Intelligence (IJCAI 2023).
-- *2022.06*: &nbsp; One paper was accepted by International Journal of Computer Vision (IJCV).
-- *2022.03*: &nbsp; One first-authored paper was accepted by Computer Vision and Pattern Recognition (CVPR 2022).
-- *2022.02*: &nbsp; One first-authored paper was accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-- *2021.03*: &nbsp; One first-authored paper was accepted by Computer Vision and Pattern Recognition (CVPR 2021).
+- *2024.09*: &nbsp; One co-first-authored paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- *2024.09*: &nbsp; One co-first-authored paper has been accepted by Conference on Neural Information Processing Systems (NeurIPS 2024).
+- *2024.02*: &nbsp; One co-first-authored paper has been accepted by IEEE Transactions on Image Processing (TIP).
+- *2024.01*: &nbsp; One first-authored paper has been accepted by International Conference on Learning Representations (ICLR 2024).
+- *2024.01*: &nbsp; One first-authored paper has been accepted by International Journal of Computer Vision (IJCV).
+- *2023.12*: &nbsp; One paper has been accepted by The AAAI Conference on Artificial Intelligence (AAAI 2024).
+- *2023.11*: &nbsp; One paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- *2023.09*: &nbsp; One paper has been accepted by Nature Communications.
+- *2023.07*: &nbsp; One paper has been accepted by International Conference on Computer Vision (ICCV 2023).
+- *2023.04*: &nbsp; One paper has been accepted by International Joint Conference on Artificial Intelligence (IJCAI 2023).
+- *2022.06*: &nbsp; One paper has been accepted by International Journal of Computer Vision (IJCV).
+- *2022.03*: &nbsp; One first-authored paper has been accepted by Computer Vision and Pattern Recognition (CVPR 2022).
+- *2022.02*: &nbsp; One first-authored paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
+- *2021.03*: &nbsp; One first-authored paper has been accepted by Computer Vision and Pattern Recognition (CVPR 2021).
 
 # 📝 Selected Publications 
 
-(#: Equal contribution)
+(#: Equal contribution, &dagger;: Corresponding author )
 
+- `ICLR 2025` [Test-time Adaptation for Cross-modal Retrieval with Query Shift](https://openreview.net/pdf?id=BmG88rONaU), Haobin Li, Peng Hu, Qianjun Zhang, Xi Peng, XitingLiu, **Mouxing Yang**&dagger; 
 - `TPAMI 2024` [Noise-robust Vision-language Pre-training with Positive-negative Learning](https://ieeexplore.ieee.org/abstract/document/10684058), Zhenyu Huang#, **Mouxing Yang**#, Xinyan Xiao, Peng Hu, Xi Peng
 - `TIP 2024` [Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining](http://pengxi.me/wp-content/uploads/2024/03/pengxime-online.pdf), Xinran Ma#, **Mouxing Yang**#, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng
 - `NeurIPS 2024` Robust Contrastive Multi-view Clustering against Dual Noisy Correspondence, Ruiming Guo#, **Mouxing Yang**#, Yijie Lin, Xi Peng, Peng Hu
