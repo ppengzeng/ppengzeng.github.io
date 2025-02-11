@@ -25,7 +25,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
-- *2025.01*: &nbsp; One paper as corresponding author has been accepted by International Conference on Learning Representations (ICLR 2025).
+- *2025.01*: &nbsp; One paper as corresponding author has been accepted as Spotlight (acc rate=5.1%) by International Conference on Learning Representations (ICLR 2025).
 - *2024.12*：I granted National Natural Science Foundation Young Student Basic Research Project (for Ph.D. students).
 - *2024.09*: &nbsp; One co-first-authored paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 - *2024.09*: &nbsp; One co-first-authored paper has been accepted by Conference on Neural Information Processing Systems (NeurIPS 2024).
