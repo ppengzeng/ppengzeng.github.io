@@ -26,6 +26,7 @@ My research interests mainly focus on Multi-modal Learning and Multi-view Learni
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 - *2025.02*: &nbsp; I am honored to be awarded the Baidu Research Fellowship (百度奖学金，10 PhD candidates worldwide).
+- *2025.01*: &nbsp; One corresponding-authored paper has been accepted by International Conference on Learning Representations (ICLR 2024) as Spotlight (acc rate=5.1%).
 - *2024.12*: &nbsp; My research is granted by Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士生))).
 - *2024.09*: &nbsp; One co-first-authored paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
 - *2024.09*: &nbsp; One co-first-authored paper has been accepted by Conference on Neural Information Processing Systems (NeurIPS 2024).
