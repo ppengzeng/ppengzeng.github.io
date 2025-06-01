@@ -41,7 +41,7 @@ If you are interested in related topics or potential collaborations, please feel
 # 📝 Publications 
 Selected publications are listed below. For the full list, please see my [Google Scholar](https://scholar.google.com/citations?user=Zs0PWb4AAAAJ&hl=en).
 
- (* Equal contribution. # Corresponding author)
+ (* Equal contribution, # Corresponding author.)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/cvpr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
