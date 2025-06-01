@@ -24,7 +24,8 @@ My research interests include Machine Learning, Deep Learning, AI-Generated Cont
 If you are interested in related topics or potential collaborations, please feel free to get in touch: **is.pengpengzeng@gmail.com**.
 
 # 🔥 News
-- *2025.02*: One paper accepted by CVPR 2025!
+- *2025.05*: Two papers accepted by ACL 2025!
+- *2025.05*: One paper accepted by TIP 2025!
 - *2025.02*: One paper accepted by TIP!
 - *2024.07*: One paper accepted by ACM MM2024!
 - *2024.07*: One paper accepted by TCSVT!
@@ -53,6 +54,18 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025<
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='../images/tip25_2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**Text-Video Retrieval with Global-Local Semantic Consistent Learning**<br>
+Haonan Zhang, **Pengpeng Zeng**\#, Lianli Gao, Jingkuan Song, Yihang Duan, Xinyu Lyu, Heng Tao Shen<br>
+IEEE Transactions on Image Processing (**TIP**), 2025<br>
+[Paper][[Code]](https://github.com/zchoi/GLSCL)<br>
+
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='../images/tip25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -60,7 +73,6 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025<
 Xinyu Lyu, Lianli Gao, Junlin Xie, **Pengpeng Zeng**, Yulu Tian, Jie Shao, Heng Tao Shen<br>
 IEEE Transactions on Image Processing (**TIP**), 2025<br>
 [[Paper]](https://ieeexplore.ieee.org/document/10909340)[[Code]](https://github.com/XinyuLyu/G-USGG)<br>
-Addressing both predicate-level and concept-level imbalance issues for generalized unbiased SGG.
 
 </div>
 </div>
@@ -121,7 +133,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 </div>
 
 
-- ``ACL 2025`` [OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction](https://arxiv.org/pdf/2505.20277), Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, **Pengpeng Zeng**, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. [Code](https://github.com/zchoi/OmniCharacter)
+- ``ACL 2025`` [OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction](https://arxiv.org/pdf/2505.20277), Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, **Pengpeng Zeng**, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. [[Code]](https://github.com/zchoi/OmniCharacter)
 
 - `ACL 2025 (findings)` [MMEvol: Empowering multimodal large language models with evol-instruct](https://arxiv.org/pdf/2409.05840?), Run Luo, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, **Pengpeng Zeng**, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. [[Project]](https://mmevol.github.io/)[[Code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/mmevol/)
 
@@ -129,9 +141,9 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 
 - `arXiv 2024` [GT23D-Bench: A Comprehensive General Text-to-3D Generation Benchmark](https://arxiv.org/abs/2412.09997), Sitong Su, Xiao Cai, Lianli Gao, **Pengpeng Zeng**, Qinhong Du, Mengqi Li, Heng Tao Shen, Jingkuan Song. 
 
-- `ACM MM 2024` [MPT: Multi-grained Prompt Tuning for Text-Video Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680839), Haonan Zhang, **Pengpeng Zeng**\#, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/MPT)
-
 - `arXiv 2024` [SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors](https://arxiv.org/pdf/2410.07658), Xiao Cai, **Pengpeng Zeng**, Lianli Gao, Junchen Zhu, Jiaxin Zhang, Sitong Su, Heng Tao Shen, Jingkuan Song.
+- 
+- `ACM MM 2024` [MPT: Multi-grained Prompt Tuning for Text-Video Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680839), Haonan Zhang, **Pengpeng Zeng**\#, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/MPT)
 
 - `TCSVT 2024` [UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval](https://ieeexplore.ieee.org/abstract/document/10599510/), Haonan Zhang, **Pengpeng Zeng**\#, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/UMP_TVR)
 
