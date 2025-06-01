@@ -134,6 +134,8 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 
 - `arXiv 2025` [Towards Generalized and Training-Free Text-Guided Semantic Manipulation](https://arxiv.org/abs/2504.17269), Yu Hong, Xiao Cai, **Pengpeng Zeng**, Shuai Zhang, Jingkuan Song, Lianli Gao, Heng Tao Shen.
 
+- `arXiv 2025` [CFReID: Continual Few-shot Person Re-Identification](https://arxiv.org/abs/2503.18469), Hao Ni, Lianli Gao, **Pengpeng Zeng**, Heng Tao Shen, Jingkuan Song. [[Code]](https://github.com/haoni0812/MDA.git)
+
 - `arXiv 2024` [GT23D-Bench: A Comprehensive General Text-to-3D Generation Benchmark](https://arxiv.org/abs/2412.09997), Sitong Su, Xiao Cai, Lianli Gao, **Pengpeng Zeng**, Qinhong Du, Mengqi Li, Heng Tao Shen, Jingkuan Song. 
 
 - `arXiv 2024` [SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors](https://arxiv.org/pdf/2410.07658), Xiao Cai, **Pengpeng Zeng**, Lianli Gao, Junchen Zhu, Jiaxin Zhang, Sitong Su, Heng Tao Shen, Jingkuan Song.
