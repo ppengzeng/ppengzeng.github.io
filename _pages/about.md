@@ -132,16 +132,15 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 </div>
 </div>
 
-
-- ``ACL 2025`` [OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction](https://arxiv.org/pdf/2505.20277), Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, **Pengpeng Zeng**, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. [[Code]](https://github.com/zchoi/OmniCharacter)
-
-- `ACL 2025 (findings)` [MMEvol: Empowering multimodal large language models with evol-instruct](https://arxiv.org/pdf/2409.05840?), Run Luo, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, **Pengpeng Zeng**, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. [[Project]](https://mmevol.github.io/)[[Code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/mmevol/)
-
-- `arXiv 2025` [Towards Generalized and Training-Free Text-Guided Semantic Manipulation](https://arxiv.org/abs/2504.17269), Yu Hong, Xiao Cai, **Pengpeng Zeng**, Shuai Zhang, Jingkuan Song, Lianli Gao, Heng Tao Shen. 
+- `arXiv 2025` [Towards Generalized and Training-Free Text-Guided Semantic Manipulation](https://arxiv.org/abs/2504.17269), Yu Hong, Xiao Cai, **Pengpeng Zeng**, Shuai Zhang, Jingkuan Song, Lianli Gao, Heng Tao Shen.
 
 - `arXiv 2024` [GT23D-Bench: A Comprehensive General Text-to-3D Generation Benchmark](https://arxiv.org/abs/2412.09997), Sitong Su, Xiao Cai, Lianli Gao, **Pengpeng Zeng**, Qinhong Du, Mengqi Li, Heng Tao Shen, Jingkuan Song. 
 
 - `arXiv 2024` [SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors](https://arxiv.org/pdf/2410.07658), Xiao Cai, **Pengpeng Zeng**, Lianli Gao, Junchen Zhu, Jiaxin Zhang, Sitong Su, Heng Tao Shen, Jingkuan Song.
+
+- ``ACL 2025`` [OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction](https://arxiv.org/pdf/2505.20277), Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, **Pengpeng Zeng**, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. [[Code]](https://github.com/zchoi/OmniCharacter)
+
+- `ACL 2025 (findings)` [MMEvol: Empowering multimodal large language models with evol-instruct](https://arxiv.org/pdf/2409.05840?), Run Luo, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, **Pengpeng Zeng**, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. [[Project]](https://mmevol.github.io/)[[Code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/mmevol/)
 
 - `ACM MM 2024` [MPT: Multi-grained Prompt Tuning for Text-Video Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680839), Haonan Zhang, **Pengpeng Zeng**\#, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/MPT)
 
