@@ -147,9 +147,9 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 
 - `TCSVT 2024` [UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval](https://ieeexplore.ieee.org/abstract/document/10599510/), Haonan Zhang, **Pengpeng Zeng**\#, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/UMP_TVR)
 
-- `TCSVT 2023` [SPT: Spatial pyramid transformer for image captioning](https://ieeexplore.ieee.org/abstract/document/10328641/), Haonan Zhang, **Pengpeng Zeng**\#, Lianli Gao, Xinyu Lyu, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/SPT)
-
 - `ACM MM 2024` [Depth-aware sparse transformer for video-language learning](https://dl.acm.org/doi/abs/10.1145/3581783.3611714), Haonan Zhang, Lianli Gao\#, **Pengpeng Zeng**\#, Alan Hanjalic, Heng Tao Shen. [[Code]](https://github.com/zchoi/DAST)
+
+- `TCSVT 2023` [SPT: Spatial pyramid transformer for image captioning](https://ieeexplore.ieee.org/abstract/document/10328641/), Haonan Zhang, **Pengpeng Zeng**\#, Lianli Gao, Xinyu Lyu, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/SPT)
 
 - `TMM 2023` [Memory-based augmentation network for video captioning](https://ieeexplore.ieee.org/abstract/document/10183355/), Shuaiqi Jing, Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/MAN)
 
