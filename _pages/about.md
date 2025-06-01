@@ -17,83 +17,187 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi, My name is Mouxing Yang (杨谋星). I’m a Ph.D. student from College of Computer Science, Sichuan Univerisity, fortunately advised by Prof.[Xi Peng](http://pengxi.me).
+I am Pengpeng Zeng (曾鹏鹏), currently a Researcher in the School of Computer Science and Technology at Tongji University, China. I received my Ph.D. degree in 2023 from the School of Computer Science and Engineering, University of Electronic Science and Technology of China (UESTC), under the supervision of Prof. [Jingkuan Song](https://cfm.uestc.edu.cn/~songjingkuan/), Prof. [Lianli Gao](https://lianligao.github.io/), and Prof. [Heng Tao Shen](https://cfm.uestc.edu.cn/~shenht/).
 
-My research interests mainly focus on Multi-modal Learning and Multi-view Learning, especially the challenges encountered in open scenarios, such as missing modalities, imbalanced modalties and noisy correspondence. For more insights on noisy correspondence, please refer to our repository: [Noisy Correspondence Summary](https://github.com/XLearning-SCU/Awesome-Noisy-Correspondence).
+My research interests include Machine Learning, Deep Learning, AI-Generated Content (AIGC), Computer Vision, and Reinforcement Learning etc.
 
+If you are interested in related topics or potential collaborations, please feel free to get in touch: **is.pengpengzeng@gmail.com**.
 
 # 🔥 News
-<!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+- *2025.02*: One paper accepted by CVPR 2025!
+- *2025.02*: One paper accepted by TIP!
+- *2024.07*: One paper accepted by ACM MM2024!
+- *2024.07*: One paper accepted by TCSVT!
+- *2024.02*: One paper accepted by CVPR2024!
+- *2023.11*: One paper accepted by TCSVT!
+- *2023.09*: One paper accepted by TNNLS!
+- *2023.07*: One paper accepted by ACM MM2023!
+- *2023.07*: One paper accepted by TPAMI!
+- *2023.07*: One paper accepted by TMM!
+- *2023.07*: One paper accepted by TCSVT!
+- *2023.01*: One paper accepted by PR!
 
-- *2025.02*: &nbsp; I am honored to be awarded the Baidu Research Fellowship (百度奖学金，10 PhD candidates worldwide).
-- *2025.01*: &nbsp; One corresponding-authored paper has been accepted by International Conference on Learning Representations (ICLR 2025) as Spotlight presentation (acc rate=5.1%).
-- *2024.12*: &nbsp; My research is granted by Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士生))).
-- *2024.09*: &nbsp; One co-first-authored paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-- *2024.09*: &nbsp; One co-first-authored paper has been accepted by Conference on Neural Information Processing Systems (NeurIPS 2024).
-- *2024.02*: &nbsp; One co-first-authored paper has been accepted by IEEE Transactions on Image Processing (TIP).
-- *2024.01*: &nbsp; One first-authored paper has been accepted by International Conference on Learning Representations (ICLR 2024).
-- *2024.01*: &nbsp; One first-authored paper has been accepted by International Journal of Computer Vision (IJCV).
-- *2023.12*: &nbsp; One paper has been accepted by The AAAI Conference on Artificial Intelligence (AAAI 2024).
-- *2023.11*: &nbsp; One paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-- *2023.09*: &nbsp; One paper has been accepted by Nature Communications.
-- *2023.07*: &nbsp; One paper has been accepted by International Conference on Computer Vision (ICCV 2023).
-- *2023.04*: &nbsp; One paper has been accepted by International Joint Conference on Artificial Intelligence (IJCAI 2023).
-- *2022.06*: &nbsp; One paper has been accepted by International Journal of Computer Vision (IJCV).
-- *2022.03*: &nbsp; One first-authored paper has been accepted by Computer Vision and Pattern Recognition (CVPR 2022).
-- *2022.02*: &nbsp; One first-authored paper has been accepted by IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI).
-- *2021.03*: &nbsp; One first-authored paper has been accepted by Computer Vision and Pattern Recognition (CVPR 2021).
+# 📝 Publications 
+Selected publications are listed below. For the full list, please see my [Google Scholar](https://scholar.google.com/citations?user=Zs0PWb4AAAAJ&hl=en).
 
-# 📝 Selected Publications 
+ (* Equal contribution. # Corresponding author)
 
-(#: Equal contribution, &dagger;: Corresponding author )
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/cvpr25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[**Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**](https://arxiv.org/abs/2412.11509)<br>
+Shihan Wu, Ji Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2025<br>
+[[Paper]](https://arxiv.org/abs/2412.11509)[[Code]](https://github.com/Koorye/SkipTuning)
 
-- `ICLR 2025` [Test-time Adaptation for Cross-modal Retrieval with Query Shift](https://openreview.net/pdf?id=BmG88rONaU), Haobin Li, Peng Hu, Qianjun Zhang, Xi Peng, XitingLiu, **Mouxing Yang**&dagger; 
-- `TPAMI 2024` [Noise-robust Vision-language Pre-training with Positive-negative Learning](https://ieeexplore.ieee.org/abstract/document/10684058), Zhenyu Huang#, **Mouxing Yang**#, Xinyan Xiao, Peng Hu, Xi Peng
-- `TIP 2024` [Cross-modal Retrieval with Noisy Correspondence via Consistency Refining and Mining](http://pengxi.me/wp-content/uploads/2024/03/pengxime-online.pdf), Xinran Ma#, **Mouxing Yang**#, Yunfan Li, Peng Hu, Jiancheng Lv, Xi Peng
-- `NeurIPS 2024` Robust Contrastive Multi-view Clustering against Dual Noisy Correspondence, Ruiming Guo#, **Mouxing Yang**#, Yijie Lin, Xi Peng, Peng Hu
-- `ICLR 2024` [Test-time Adaption against Multi-modal Reliability Bias](https://openreview.net/pdf?id=TPZRq4FALB), **Mouxing Yang**, Yunfan Li, Changqing Zhang, Peng Hu, Xi Peng
-- `IJCV 2024` [Robust Object Re-identification with Coupled Noisy Labels](http://pengxi.me/wp-content/uploads/2024/02/online_version.pdf), **Mouxing Yang**, Zhenyu Huang, Xi Peng
-- `CVPR 2022` [Learning with Twin Noisy Labels for Visible-Infrared Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2022/papers/Yang_Learning_With_Twin_Noisy_Labels_for_Visible-Infrared_Person_Re-Identification_CVPR_2022_paper.pdf), **Mouxing Yang**, Zhenyu Huang, Peng Hu, Taihao Li, Jiancheng Lv, Xi Peng
-- `TPAMI 2022` [Robust Multi-view Clustering with Incomplete Information](http://pengxi.me/wp-content/uploads/2022/03/Robust-Multi-view-Clustering-with-Incomplete-Information.pdf), **Mouxing Yang**, Yunfan Li, Peng Hu, Jinfeng Bai, Jiancheng Lv, Xi Peng
-- `CVPR 2021` [Partially View-aligned Representation Learning with Noise-robust Contrastive Loss](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Partially_View-Aligned_Representation_Learning_With_Noise-Robust_Contrastive_Loss_CVPR_2021_paper.pdf), **Mouxing Yang**, Yunfan Li, Zhenyu Huang, Zitao Liu, Peng Hu, Xi Peng
+</div>
+</div>
 
-<!-- under review -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2025</div><img src='../images/tip25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-# 🎖 Honors and Awards
-- *2025.02* Baidu Research Fellowship (百度奖学金，10 PhD candidates worldwide).
-- *2024.12* Fundamental Research Project for Young Ph.D. students from NSFC (国家自然科学基金青年学生基础研究项目(博士生))
-- *2024.11* National Scholarship
-- *2024.05* CASC Scholarship
-- *2023.10* PhD student Innovation Scholarship
-- *2022.10* National Scholarship
-- *2021.10* National Scholarship
+[**Multi-Concept Learning for Scene Graph Generation**](https://ieeexplore.ieee.org/document/10909340)<br>
+Xinyu Lyu, Lianli Gao, Junlin Xie, **Pengpeng Zeng**, Yulu Tian, Jie Shao, Heng Tao Shen<br>
+IEEE Transactions on Image Processing (**TIP**), 2025<br>
+[[Paper]](https://ieeexplore.ieee.org/document/10909340)[[Code]](https://github.com/XinyuLyu/G-USGG)<br>
+Addressing both predicate-level and concept-level imbalance issues for generalized unbiased SGG.
 
-<!-- # 📖 Educations
+</div>
+</div>
 
-- 2020.09 - now, Ph.D. student, Sichuan Univeristy, Chengdu.
-- 2016.09 - 2020.06, Undergraduate, Sichuan Univeristy, Chengdu. -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2024</div><img src='../images/cvpr24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<!-- 
+[**ProS: Prompting-to-simulate Generalized knowledge for Universal Cross-Domain Retrieval**](https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_ProS_Prompting-to-simulate_Generalized_knowledge_for_Universal_Cross-Domain_Retrieval_CVPR_2024_paper.pdf)<br>
+Kaipeng Fang, Jingkuan Song, Lianli Gao, **Pengpeng Zeng**, Zhi-Qi Cheng, Xiyao Li, Heng Tao Shen<br>
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (**CVPR**), 2024<br>
+[[Paper]](https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_ProS_Prompting-to-simulate_Generalized_knowledge_for_Universal_Cross-Domain_Retrieval_CVPR_2024_paper.pdf)[[Code]](https://github.com/kaipengfang/ProS)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2023</div><img src='../images/tpami23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Adaptive Fine-Grained Predicates Learning for Scene Graph Generation**](https://ieeexplore.ieee.org/document/10192357)<br>
+Xinyu Lyu, Lianli Gao, **Pengpeng Zeng**, Heng Tao Shen, Jingkuan Song<br>
+IEEE Transactions on Pattern Analysis and Machine Intelligence (**TPAMI**), 2023<br>
+[[Paper]](https://ieeexplore.ieee.org/document/10192357)[[Code]](https://github.com/XinyuLyu/FGPL)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TNNLS 2023</div><img src='../images/tnnls23.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Visual Commonsense-aware Representation Network for Video Captioning**](https://arxiv.org/pdf/2211.09469)<br>
+**Pengpeng Zeng**, Haonan Zhang, Lianli Gao, Xiangpeng Li, Jin Qian, Heng Tao Shen<br>
+IEEE Transactions on Neural Networks and Learning Systems (**TNNLS**), 2023<br>
+[[Paper]](https://arxiv.org/pdf/2211.09469)[[Code]](https://github.com/zchoi/VCRN)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='../images/tip22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Video Question Answering with Prior Knowledge and Object-sensitive Learning**](https://ieeexplore.ieee.org/document/9882977)<br>
+**Pengpeng Zeng**, Haonan Zhang, Lianli Gao, Jingkuan Song, Heng Tao Shen<br>
+IEEE Transactions on Image Processing (**TIP**), 2022<br>
+[[Paper]](https://ieeexplore.ieee.org/document/9882977)[[Code]](https://github.com/zchoi/PKOL)
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCAI 2022</div><img src='../images/ijcai22.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**S<sup>2</sup> Transformer for Image Captioning**](https://www.ijcai.org/proceedings/2022/0224.pdf)<br>
+**Pengpeng Zeng**\*, Haonan Zhang\*, Jingkuan Song, Lianli Gao<br>
+International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
+[[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf)[[Code]](https://github.com/zchoi/S2-Transformer)
+
+</div>
+</div>
+
+
+- ``ACL 2025`` [OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction](https://arxiv.org/pdf/2505.20277), Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, **Pengpeng Zeng**, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. [Code](https://github.com/zchoi/OmniCharacter)
+
+- `ACL 2025 (findings)` [MMEvol: Empowering multimodal large language models with evol-instruct](https://arxiv.org/pdf/2409.05840?), Run Luo, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, **Pengpeng Zeng**, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. [[Project]](https://mmevol.github.io/)[[Code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/mmevol/)
+
+- `arXiv 2025` [Towards Generalized and Training-Free Text-Guided Semantic Manipulation](https://arxiv.org/abs/2504.17269), Yu Hong, Xiao Cai, **Pengpeng Zeng**, Shuai Zhang, Jingkuan Song, Lianli Gao, Heng Tao Shen. 
+
+- `arXiv 2024` [GT23D-Bench: A Comprehensive General Text-to-3D Generation Benchmark](https://arxiv.org/abs/2412.09997), Sitong Su, Xiao Cai, Lianli Gao, **Pengpeng Zeng**, Qinhong Du, Mengqi Li, Heng Tao Shen, Jingkuan Song. 
+
+- `ACM MM 2024` [MPT: Multi-grained Prompt Tuning for Text-Video Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680839), Haonan Zhang, **Pengpeng Zeng**\#, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/MPT)
+
+- `arXiv 2024` [SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors](https://arxiv.org/pdf/2410.07658), Xiao Cai, **Pengpeng Zeng**, Lianli Gao, Junchen Zhu, Jiaxin Zhang, Sitong Su, Heng Tao Shen, Jingkuan Song.
+
+- `TCSVT 2024` [UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval](https://ieeexplore.ieee.org/abstract/document/10599510/), Haonan Zhang, **Pengpeng Zeng**\#, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/UMP_TVR)
+
+- `TCSVT 2023` [SPT: Spatial pyramid transformer for image captioning](https://ieeexplore.ieee.org/abstract/document/10328641/), Haonan Zhang, **Pengpeng Zeng**\#, Lianli Gao, Xinyu Lyu, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/SPT)
+
+- `ACM MM 2024` [Depth-aware sparse transformer for video-language learning](https://dl.acm.org/doi/abs/10.1145/3581783.3611714), Haonan Zhang, Lianli Gao\#, **Pengpeng Zeng**\#, Alan Hanjalic, Heng Tao Shen. [[Code]](https://github.com/zchoi/DAST)
+
+- `TMM 2023` [Memory-based augmentation network for video captioning](https://ieeexplore.ieee.org/abstract/document/10183355/), Shuaiqi Jing, Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/MAN)
+
+- `NeurIPS 2022` [A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval](https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf), Hao Li, Jingkuan Song, Lianli Gao, **Pengpeng Zeng**, Haonan Zhang, Gongfu Li. [[Code]](https://github.com/leolee99/2022-NeurIPS-DAA)
+
+- `TIP 2021` [Hierarchical representation network with auxiliary tasks for video captioning and video question answering](https://ieeexplore.ieee.org/abstract/document/9592722/), Lianli Gao, Yu Lei, **Pengpeng Zeng**, Jingkuan Song, Meng Wang, Heng Tao Shen. [[Code]](https://github.com/Riesling00/HRNAT)
+
+- `ACM MM 2021`  (**oral**) [Conceptual and Syntactical Cross-modal Alignment with Cross-level Consistency for Image-Text Matching](https://dl.acm.org/doi/10.1145/3474085.3475380), **Pengpeng Zeng**, Lianli Gao, Xinyu Lyu, Shuaiqi Jing, Jingkuan Song.
+
+
+# 🎖 Honors and Services
+
+- **Honors**
+
+  - *2022.12* Outstanding Student of UESTC.
+  - *2022.10* National Scholarship.
+  
+- **Academic Services** (_**Journal Reviewer**_)
+
+  -  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), since 2023
+  
+  -  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), since 2023
+    
+  -  Knowledge-Based Systems (KBS), since 2023
+    
+  -  ACM Transactions on Data Science (TDS), since 2021
+    
+  - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM), since 2020
+ 
+- **Academic Services** (_**Conference Reviewer**_)
+  
+  - IEEE International Conference on Computer Vision (ICCV) 2023 - PC Member
+  
+  - IEEE Winter Conference on Applications of Computer Vision (WACV) 2023 -PC Member
+  
+  - IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022/2023 - PC Member
+  
+  - European Conference on Computer Vision (ECCV) 2022 - PC Member
+  
+  - International Conference on Pattern Recognition (ICPR) 2021/2022 - PC Member
+  
+  - AAAI Conference on Artificial Intelligence (AAAI) 2021/2022/2023 - PC Member
+  
+  - ACM International Conference on Multimedia (MM) 2021/2022/2023 - PC Member
+
+
+# 📖 Educations
+- *2019.09 - 2023.06*, Ph.D, Computer Science and Technology, University of Electronic Science and Technology of China (UESTC).
+- *2016.09 - 2019.06*, M.S., Computer Technology, University of Electronic Science and Technology of China (UESTC).
+- *2012.09 - 2016.06*, B.S., Digital Media Technology, Xi'an University of Technology (XUT).
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.05*, ChinaMM 2022 (Technical Forum: End-to-End Image Caption Generation Based on Visual Region Aggregation and Bidirectional Interaction), Guiyang, Guizhou. 
 
+# 💻 Internships
+- *2018.06 - 2018.09*, Deep learning for visual question answering, JD AI CV-Lab, Advisor: Dr. [Wu liu](https://www.drliuwu.com/)
 
-# 💻 
--->
-# 🙋 Service
-<!-- - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.  -->
+<a href="https://www.easycounter.com/">
+<img src="https://www.easycounter.com/counter.php?pengpengzeng"
+border="0" alt="Free Hit Counters"></a> visitors since Jun 2025</a>
 
-<!-- - Journal Reviewer of IEEE Transactions on Knowledge and Data Engineering, IEEE Transactions on Neural Networks and Learning Systems, IEEE Transactions on Systems, Man and Cybernetics: Systems. -->
-
-- **Journal Reviewer**: IEEE TPAMI, IEEE TIP, IEEE TKDE, etc.
-
-- **Conference Reviewer**: ICLR, NeurIPS, ICML, CVPR, ICCV, etc.
-<!-- - Conference Reviewer: of ICLR 2023, NeurIPS 2023, ICML 2023, ICCV 2023, AAAI 2023. -->
-<!-- , CICAI 2021-2022, ICIG 2021, ACML 2021, PRCV 2021-2022 -->
-
-<!-- 
-# 💬 Talks ~
- -->
 
