@@ -174,17 +174,23 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
   - IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, ICCV, CVPR, ECCV, AAAI, MM, etc.
     
 - **Grand Challenges**
-  
-  - _Ingenuity Cup 2024_: 1st Place award in the Special Track of the 1st “Ingenuity Cup” National Artificial Intelligence Innovation Application Competition.
+  - _ICME 2024_: 1st Place Winner in Multi-Modal Video Reasoning and Analyzing Competition (MMVRAC) Attribute Recognition track
+  - _ICME 2024_: 1st Place Winner in Multi-Modal Video Reasoning and Analyzing Competition (MMVRAC) Person Reidentification track
   - _Ingenuity Cup 2024_: 2nd Place award in the Grand Final of the 1st “Ingenuity Cup” National Artificial Intelligence Innovation Application Competition.
+  - _Ingenuity Cup 2024_: 1st Place award in the Special Track of the 1st “Ingenuity Cup” National Artificial Intelligence Innovation Application Competition.
   - _ECCV 2022_: DeeperAction Challenge 3rd place award on Track 4 Kinetics-TPS Challenge on Part-level Action Parsing.
   - _OPPO 2021_: Security Challenge 3rd Place award.
-
 
 # 📖 Educations
 - *2019.09 - 2023.06*, Ph.D, Computer Science and Technology, University of Electronic Science and Technology of China (UESTC).
 - *2016.09 - 2019.06*, M.S., Computer Technology, University of Electronic Science and Technology of China (UESTC).
 - *2012.09 - 2016.06*, B.S., Digital Media Technology, Xi'an University of Technology (XUT).
+
+# Research Grants
+- *2025.01 - 2027.12*, Young Scientists Fund of the National Natural Science Foundation of China: "Research on Efficient Cross-Modal Retrieval Theory and Technology for Open Scenarios", **Lead PI**
+- *2025.01 - 2026.12*, Young Scientists Fund of the Sichuan Provincial Department of Science and Technology: "Theoretical and Methodological Study on Efficient Adaptive Learning for Open-Environment Multimodal Autonomous Intelligence", **Lead PI**
+- *2022.04 - 2023.11*, Sichuan Science and Technology Program of the Sichuan Provincial Department of Science and Technology: "Research on Vision-Text Collaborative Learning for Semantic Understanding", **Lead PI**
+
 
 <!--
 # 💬 Invited Talks
