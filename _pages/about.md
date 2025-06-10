@@ -174,8 +174,8 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
   - IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, ICCV, CVPR, ECCV, AAAI, MM, etc.
     
 - **Grand Challenges**
-  - _ICME 2024_: 1st Place Winner in Multi-Modal Video Reasoning and Analyzing Competition (MMVRAC) Attribute Recognition track
-  - _ICME 2024_: 1st Place Winner in Multi-Modal Video Reasoning and Analyzing Competition (MMVRAC) Person Reidentification track
+  - _ICME 2024_: 1st Place Winner on Attribute Recognition track of Multi-Modal Video Reasoning and Analyzing Competition (MMVRAC) 
+  - _ICME 2024_: 1st Place Winner on Person Reidentification track of Multi-Modal Video Reasoning and Analyzing Competition (MMVRAC)
   - _Ingenuity Cup 2024_: 2nd Place award in the Grand Final of the 1st “Ingenuity Cup” National Artificial Intelligence Innovation Application Competition.
   - _Ingenuity Cup 2024_: 1st Place award in the Special Track of the 1st “Ingenuity Cup” National Artificial Intelligence Innovation Application Competition.
   - _ECCV 2022_: DeeperAction Challenge 3rd place award on Track 4 Kinetics-TPS Challenge on Part-level Action Parsing.
