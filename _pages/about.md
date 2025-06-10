@@ -188,7 +188,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 
 # 💻 Research Grants
 - *2025.01 - 2027.12*, Young Scientists Fund of the National Natural Science Foundation of China: "Research on Efficient Cross-Modal Retrieval Theory and Technology for Open Scenarios", **Lead PI**
-- *2025.01 - 2026.12*, Young Scientists Fund of the Sichuan Provincial Department of Science and Technology: "Theoretical and Methodological Study on Efficient Adaptive Learning for Open-Environment Multimodal Autonomous Intelligence", **Lead PI**
+- *2025.01 - 2026.12*, Young Scientists Fund of the Sichuan Provincial Department of Science and Technology: "Theoretical and Methodological Study on Efficient Adaptive Learning for Open-Scenario Multimodal Autonomous Intelligence", **Lead PI**
 - *2022.04 - 2023.11*, Sichuan Science and Technology Program of the Sichuan Provincial Department of Science and Technology: "Research on Vision-Text Collaborative Learning for Semantic Understanding", **Lead PI**
 
 
