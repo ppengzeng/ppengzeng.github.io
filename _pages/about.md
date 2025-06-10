@@ -171,7 +171,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
   
 - **Academic Services**
 
-  -  IEEE TPAMI, IEEE TCSVT, KBS, TDS, TOMM, ICCV23 PC Member, WACV23 PC Member, CVPR22/23 PC Member, ECCV22 PC Member, ICPR21/22 PC Member, AAAI21/22/23 PC Member, MM21/22/23 PC Member.
+  - IEEE TPAMI, IEEE TIP, IEEE TMM, IEEE TNNLS, ICCV, CVPR, ECCV, AAAI, MM, etc.
     
 - **Grand Challenges**
   
