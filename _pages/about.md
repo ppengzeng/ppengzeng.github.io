@@ -126,7 +126,7 @@ IEEE Transactions on Image Processing (**TIP**), 2022<br>
 <div class='paper-box-text' markdown="1">
 
 [**S<sup>2</sup> Transformer for Image Captioning**](https://www.ijcai.org/proceedings/2022/0224.pdf)<br>
-**Pengpeng Zeng**\*, Haonan Zhang\*, Jingkuan Song, Lianli Gao<br>
+**Pengpeng Zeng**, Haonan Zhang, Jingkuan Song, Lianli Gao<br>
 International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 [[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf)[[Code]](https://github.com/zchoi/S2-Transformer)
 
