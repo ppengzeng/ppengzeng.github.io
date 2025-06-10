@@ -27,9 +27,10 @@ If you are interested in related topics or potential collaborations, please feel
 - *2025.05*: Two papers accepted by ACL 2025!
 - *2025.05*: One paper accepted by TIP!
 - *2025.02*: One paper accepted by TIP!
-- *2024.07*: One paper accepted by ACM MM2024!
+- *2024.07*: One paper accepted by ACM MM 2024!
 - *2024.07*: One paper accepted by TCSVT!
-- *2024.02*: One paper accepted by CVPR2024!
+- *2024.02*: One paper accepted by CVPR 2024!
+<!--
 - *2023.11*: One paper accepted by TCSVT!
 - *2023.09*: One paper accepted by TNNLS!
 - *2023.07*: One paper accepted by ACM MM2023!
@@ -37,11 +38,10 @@ If you are interested in related topics or potential collaborations, please feel
 - *2023.07*: One paper accepted by TMM!
 - *2023.07*: One paper accepted by TCSVT!
 - *2023.01*: One paper accepted by PR!
+-->
 
 # 📝 Publications 
 Selected publications are listed below. For the full list, please see my [Google Scholar](https://scholar.google.com/citations?user=Zs0PWb4AAAAJ&hl=en).
-
- (* Equal contribution, # Corresponding author.)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/cvpr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -168,33 +168,16 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
   - *2022.12* Outstanding Student of UESTC.
   - *2022.10* National Scholarship.
   
-- **Academic Services** (_**Journal Reviewer**_)
+- **Academic Services**
 
-  -  IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), since 2023
-  
-  -  IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), since 2023
+  -  IEEE TPAMI, IEEE TCSVT, KBS, TDS, TOMM, ICCV23 PC Member, WACV23 PC Member, CVPR22/23 PC Member, ECCV22 PC Member, ICPR21/22 PC Member, AAAI21/22/23 PC Member, MM21/22/23 PC Member.
     
-  -  Knowledge-Based Systems (KBS), since 2023
-    
-  -  ACM Transactions on Data Science (TDS), since 2021
-    
-  - ACM Transactions on Multimedia Computing, Communications and Applications (TOMM), since 2020
- 
-- **Academic Services** (_**Conference Reviewer**_)
+- **Grand Challenges**
   
-  - IEEE International Conference on Computer Vision (ICCV) 2023 - PC Member
-  
-  - IEEE Winter Conference on Applications of Computer Vision (WACV) 2023 -PC Member
-  
-  - IEEE Conference on Computer Vision and Pattern Recognition (CVPR) 2022/2023 - PC Member
-  
-  - European Conference on Computer Vision (ECCV) 2022 - PC Member
-  
-  - International Conference on Pattern Recognition (ICPR) 2021/2022 - PC Member
-  
-  - AAAI Conference on Artificial Intelligence (AAAI) 2021/2022/2023 - PC Member
-  
-  - ACM International Conference on Multimedia (MM) 2021/2022/2023 - PC Member
+  - _Ingenuity Cup 2024_: 1st Place award in the Special Track of the 1st “Ingenuity Cup” National Artificial Intelligence Innovation Application Competition.
+  - _Ingenuity Cup 2024_: 2nd Place award in the Grand Final of the 1st “Ingenuity Cup” National Artificial Intelligence Innovation Application Competition.
+  - _ECCV 2022_: DeeperAction Challenge 3rd place award on Track 4 Kinetics-TPS Challenge on Part-level Action Parsing.
+  - _OPPO 2021_: Security Challenge 3rd Place award.
 
 
 # 📖 Educations
@@ -202,12 +185,13 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 - *2016.09 - 2019.06*, M.S., Computer Technology, University of Electronic Science and Technology of China (UESTC).
 - *2012.09 - 2016.06*, B.S., Digital Media Technology, Xi'an University of Technology (XUT).
 
-
+<!--
 # 💬 Invited Talks
 - *2022.05*, ChinaMM 2022 (Technical Forum: End-to-End Image Caption Generation Based on Visual Region Aggregation and Bidirectional Interaction), Guiyang, Guizhou. 
 
 # 💻 Internships
 - *2018.06 - 2018.09*, Deep learning for visual question answering, JD AI CV-Lab, Advisor: Dr. [Wu liu](https://www.drliuwu.com/)
+-->
 
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?pengpengzeng"
