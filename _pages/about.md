@@ -26,6 +26,7 @@ If you are interested in related topics or potential collaborations, please feel
 # 🔥 News
 - *2025.05*: Two papers accepted by ACL 2025!
 - *2025.05*: One paper accepted by TIP!
+- *2025.02*: One paper accepted by CVPR 2025!
 - *2025.02*: One paper accepted by TIP!
 - *2024.07*: One paper accepted by ACM MM 2024!
 - *2024.07*: One paper accepted by TCSVT!
