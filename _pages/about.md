@@ -199,10 +199,10 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 
 # 💻 Internships
 - *2018.06 - 2018.09*, Deep learning for visual question answering, JD AI CV-Lab, Advisor: Dr. [Wu liu](https://www.drliuwu.com/)
--->
+
 
 <a href="https://www.easycounter.com/">
 <img src="https://www.easycounter.com/counter.php?pengpengzeng"
 border="0" alt="Free Hit Counters"></a> visitors since Jun 2025.
-
+-->
 
