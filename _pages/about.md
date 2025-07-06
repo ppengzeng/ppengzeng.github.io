@@ -24,6 +24,7 @@ My research interests include Machine Learning, Deep Learning, AI-Generated Cont
 If you are interested in related topics or potential collaborations, please feel free to get in touch: **is.pengpengzeng@gmail.com**.
 
 # 🔥 News
+- *2025.07*: One paper accepted by ACM MM 2025!
 - *2025.05*: Two papers accepted by ACL 2025!
 - *2025.05*: One paper accepted by TIP!
 - *2025.02*: One paper accepted by CVPR 2025!
@@ -133,6 +134,8 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 
 </div>
 </div>
+
+- `ACM MM 2025` [AICL: Action In-Context Learning For Text-to-Video Generation](https://arxiv.org/abs/2403.11535), Jianzhi Liu, Junchen Zhu, **Pengpeng Zeng**, Lianli Gao, Heng Tao shen, Jingkuan Song.
 
 - `arXiv 2025` [Towards Generalized and Training-Free Text-Guided Semantic Manipulation](https://arxiv.org/abs/2504.17269), Yu Hong, Xiao Cai, **Pengpeng Zeng**, Shuai Zhang, Jingkuan Song, Lianli Gao, Heng Tao Shen.
 
