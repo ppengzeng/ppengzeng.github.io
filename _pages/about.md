@@ -24,6 +24,9 @@ My research interests include Machine Learning, Deep Learning, AI-Generated Cont
 If you are interested in related topics or potential collaborations, please feel free to get in touch: **is.pengpengzeng@gmail.com**.
 
 # 🔥 News
+- *2026.04*: One paper accepted by IJCV 2026!
+- *2026.03*: One paper accepted by TMM 2026!
+- *2026.02*: One paper accepted by TIP 2026!
 - *2025.07*: One paper accepted by ACM MM 2025!
 - *2025.05*: Two papers accepted by ACL 2025!
 - *2025.05*: One paper accepted by TIP!
