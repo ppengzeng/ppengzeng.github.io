@@ -138,7 +138,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 </div>
 </div>
 
-- `IJCV 2026` [Generalized Image Retrieval with Off-The-Shelf Quantizer], Pengpeng Zeng Yihang Duan Xiaosu Zhu Jingkuan Song Lianli Gao Nicu Sebe Hengtao Shen.
+- `IJCV 2026` Generalized Image Retrieval with Off-The-Shelf Quantizer, Pengpeng Zeng Yihang Duan Xiaosu Zhu Jingkuan Song Lianli Gao Nicu Sebe Hengtao Shen.
 
 - `TMM 2026` [Structure-aware Prompt Adaptation from Seen to Unseen for Open-Vocabulary Compositional Zero-Shot Learning](https://arxiv.org/abs/2603.03815), Yihang Duan, Jiong Wang, **Pengpeng Zeng**, Ji Zhang, Lei Zhao, Chong Wang, Jingkuan Song, Lianli Gao.
 
