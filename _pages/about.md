@@ -135,6 +135,10 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 </div>
 </div>
 
+- `IJCV 2026` [Generalized Image Retrieval with Off-The-Shelf Quantizer], Pengpeng Zeng Yihang Duan Xiaosu Zhu Jingkuan Song Lianli Gao Nicu Sebe Hengtao Shen.
+
+- `TMM 2026` [Structure-aware Prompt Adaptation from Seen to Unseen for Open-Vocabulary Compositional Zero-Shot Learning](https://arxiv.org/abs/2603.03815), Yihang Duan, Jiong Wang, **Pengpeng Zeng**, Ji Zhang, Lei Zhao, Chong Wang, Jingkuan Song, Lianli Gao.
+
 - `ACM MM 2025` [AICL: Action In-Context Learning For Text-to-Video Generation](https://arxiv.org/abs/2403.11535), Jianzhi Liu, Junchen Zhu, **Pengpeng Zeng**, Lianli Gao, Heng Tao shen, Jingkuan Song.
 
 - `arXiv 2025` [Towards Generalized and Training-Free Text-Guided Semantic Manipulation](https://arxiv.org/abs/2504.17269), Yu Hong, Xiao Cai, **Pengpeng Zeng**, Shuai Zhang, Jingkuan Song, Lianli Gao, Heng Tao Shen.
@@ -143,7 +147,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 
 - `arXiv 2024` [GT23D-Bench: A Comprehensive General Text-to-3D Generation Benchmark](https://arxiv.org/abs/2412.09997), Sitong Su, Xiao Cai, Lianli Gao, **Pengpeng Zeng**, Qinhong Du, Mengqi Li, Heng Tao Shen, Jingkuan Song. 
 
-- `arXiv 2024` [SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors](https://arxiv.org/pdf/2410.07658), Xiao Cai, **Pengpeng Zeng**, Lianli Gao, Junchen Zhu, Jiaxin Zhang, Sitong Su, Heng Tao Shen, Jingkuan Song.
+- `TIP 2026` [SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors](https://arxiv.org/pdf/2410.07658), Xiao Cai, **Pengpeng Zeng**, Lianli Gao, Sitong Su, Heng Tao Shen, Jingkuan Song.
 
 - ``ACL 2025`` [OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction](https://arxiv.org/pdf/2505.20277), Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, **Pengpeng Zeng**, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. [[Code]](https://github.com/zchoi/OmniCharacter)
 
