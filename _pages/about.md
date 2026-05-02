@@ -55,7 +55,7 @@ Selected publications are listed below. For the full list, please see my [Google
 
 - `ICML 2026` Cross-Tactile Sensor Representation Learning, Yan Zhang, Zheng WANG, **Pengpeng Zeng**, Xing Xu, Jingkuan Song, Heng Tao Shen.
 
-- `ICML 2026` TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity, Xiao Cai, Lianli Gao, **Pengpeng Zeng**, Ji Zhang, Heng Tao Shen, Jingkuan Song.
+- `ICML 2026` [TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity](https://arxiv.org/abs/2603.01371), Xiao Cai, Lianli Gao, **Pengpeng Zeng**, Ji Zhang, Heng Tao Shen, Jingkuan Song.
 
 - `TPAMI 2026` OmniCharacter++: Towards Comprehensive Benchmark for Realistic Role-Playing Agents, Haonan Zhang, **Pengpeng Zeng**, Ji Zhang, Jingkuan Song, Nicu Sebe, Heng Tao Shen, Lianli Gao. [[Code]](https://github.com/zchoi/OmniCharacter-plus)
 
