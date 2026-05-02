@@ -24,6 +24,8 @@ My research interests include Machine Learning, Deep Learning, AI-Generated Cont
 If you are interested in related topics or potential collaborations, please feel free to get in touch: **is.pengpengzeng@gmail.com**.
 
 # 🔥 News
+- *2026.05*: Three papers accepted by ICML 2026!
+- *2026.04*: One paper accepted by TPAMI 2026!
 - *2026.04*: One paper accepted by IJCV 2026!
 - *2026.03*: One paper accepted by TMM 2026!
 - *2026.02*: One paper accepted by TIP 2026!
@@ -32,11 +34,11 @@ If you are interested in related topics or potential collaborations, please feel
 - *2025.05*: One paper accepted by TIP!
 - *2025.02*: One paper accepted by CVPR 2025!
 - *2025.02*: One paper accepted by TIP!
+
+<!--
 - *2024.07*: One paper accepted by ACM MM 2024!
 - *2024.07*: One paper accepted by TCSVT!
 - *2024.02*: One paper accepted by CVPR 2024!
-
-<!--
 - *2023.11*: One paper accepted by TCSVT!
 - *2023.09*: One paper accepted by TNNLS!
 - *2023.07*: One paper accepted by ACM MM2023!
@@ -49,7 +51,63 @@ If you are interested in related topics or potential collaborations, please feel
 # 📝 Publications 
 Selected publications are listed below. For the full list, please see my [Google Scholar](https://scholar.google.com/citations?user=Zs0PWb4AAAAJ&hl=en).
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/cvpr25.png' alt="sym" width="100%"></div></div>
+- `ICML 2026` JANUS-LORA: A Balanced Low-Rank Adaptation for Continual Learning, Cheng Chen, **Pengpeng Zeng**, Yuyu Guo, Jingkuan Song, Heng Tao Shen, Lianli Gao.
+
+- `ICML 2026` Cross-Tactile Sensor Representation Learning, Yan Zhang, Zheng WANG, **Pengpeng Zeng**, Xing Xu, Jingkuan Song, Heng Tao Shen.
+
+- `ICML 2026` TIMI: Training-Free Image-to-3D Multi-Instance Generation with Spatial Fidelity, Xiao Cai, Lianli Gao, **Pengpeng Zeng**, Ji Zhang, Heng Tao Shen, Jingkuan Song.
+
+- `TPAMI 2026` OmniCharacter++: Towards Comprehensive Benchmark for Realistic Role-Playing Agents, Haonan Zhang, **Pengpeng Zeng**, Ji Zhang, Jingkuan Song, Nicu Sebe, Heng Tao Shen, Lianli Gao. [[Code]](https://github.com/zchoi/OmniCharacter-plus)
+
+- `IJCV 2026` Generalized Image Retrieval with Off-The-Shelf Quantizer, **Pengpeng Zeng**, Yihang Duan, Xiaosu Zhu, Jingkuan Song, Lianli Gao, Nicu Sebe, Hengtao Shen.
+
+- `TMM 2026` [Structure-aware Prompt Adaptation from Seen to Unseen for Open-Vocabulary Compositional Zero-Shot Learning](https://arxiv.org/abs/2603.03815), Yihang Duan, Jiong Wang, **Pengpeng Zeng**, Ji Zhang, Lei Zhao, Chong Wang, Jingkuan Song, Lianli Gao.
+
+- `TIP 2026` [SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors](https://arxiv.org/pdf/2410.07658), Xiao Cai, **Pengpeng Zeng**, Lianli Gao, Sitong Su, Heng Tao Shen, Jingkuan Song.
+
+- `ACM MM 2025` [AICL: Action In-Context Learning For Text-to-Video Generation](https://arxiv.org/abs/2403.11535), Jianzhi Liu, Junchen Zhu, **Pengpeng Zeng**, Lianli Gao, Heng Tao shen, Jingkuan Song.
+
+- `CVPR 2025` [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves](https://arxiv.org/abs/2412.11509), Shihan Wu, Ji Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/Koorye/SkipTuning)
+
+- `TIP 2025` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://ieeexplore.ieee.org/document/11024127), Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Yihang Duan, Xinyu Lyu, Heng Tao Shen. [[Code]](https://github.com/zchoi/GLSCL)<br>
+
+- `TIP 2025` [Multi-Concept Learning for Scene Graph Generation](https://ieeexplore.ieee.org/document/10909340), Xinyu Lyu, Lianli Gao, Junlin Xie, **Pengpeng Zeng**, Yulu Tian, Jie Shao, Heng Tao Shen. [[Code]](https://github.com/XinyuLyu/G-USGG)<br> 
+
+- `CVPR 2024` [ProS: Prompting-to-simulate Generalized knowledge for Universal Cross-Domain Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_ProS_Prompting-to-simulate_Generalized_knowledge_for_Universal_Cross-Domain_Retrieval_CVPR_2024_paper.pdf), Kaipeng Fang, Jingkuan Song, Lianli Gao, **Pengpeng Zeng**, Zhi-Qi Cheng, Xiyao Li, Heng Tao Shen. [[Code]](https://github.com/kaipengfang/ProS)
+
+- ``ACL 2025`` [OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction](https://arxiv.org/pdf/2505.20277), Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, **Pengpeng Zeng**, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. [[Code]](https://github.com/zchoi/OmniCharacter)
+
+- `ACL 2025 (findings)` [MMEvol: Empowering multimodal large language models with evol-instruct](https://arxiv.org/pdf/2409.05840?), Run Luo, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, **Pengpeng Zeng**, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. [[Project]](https://mmevol.github.io/)[[Code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/mmevol/)
+
+- `ACM MM 2024` [MPT: Multi-grained Prompt Tuning for Text-Video Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680839), Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/MPT)
+
+- `TCSVT 2024` [UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval](https://ieeexplore.ieee.org/abstract/document/10599510/), Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/UMP_TVR)
+
+- `ACM MM 2024` [Depth-aware sparse transformer for video-language learning](https://dl.acm.org/doi/abs/10.1145/3581783.3611714), Haonan Zhang, Lianli Gao, **Pengpeng Zeng**, Alan Hanjalic, Heng Tao Shen. [[Code]](https://github.com/zchoi/DAST)
+
+
+- `TPAMI 2023` [Adaptive Fine-Grained Predicates Learning for Scene Graph Generation](https://ieeexplore.ieee.org/document/10192357), Xinyu Lyu, Lianli Gao, **Pengpeng Zeng**, Heng Tao Shen, Jingkuan Song. [[Code]](https://github.com/XinyuLyu/FGPL)
+
+- `TNNLS 2023` [Visual Commonsense-aware Representation Network for Video Captioning](https://arxiv.org/pdf/2211.09469), **Pengpeng Zeng**, Haonan Zhang, Lianli Gao, Xiangpeng Li, Jin Qian, Heng Tao Shen. [[Code]](https://github.com/zchoi/VCRN)
+
+- `TCSVT 2023` [SPT: Spatial pyramid transformer for image captioning](https://ieeexplore.ieee.org/abstract/document/10328641/), Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Xinyu Lyu, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/SPT)
+
+- `TMM 2023` [Memory-based augmentation network for video captioning](https://ieeexplore.ieee.org/abstract/document/10183355/), Shuaiqi Jing, Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/MAN)
+
+- `NeurIPS 2022` [A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval](https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf), Hao Li, Jingkuan Song, Lianli Gao, **Pengpeng Zeng**, Haonan Zhang, Gongfu Li. [[Code]](https://github.com/leolee99/2022-NeurIPS-DAA)
+
+- `TIP 2022` [Video Question Answering with Prior Knowledge and Object-sensitive Learning](https://ieeexplore.ieee.org/document/9882977), **Pengpeng Zeng**, Haonan Zhang, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/PKOL)
+ 
+- `IJCAI 2022` [S<sup>2</sup> Transformer for Image Captioning](https://www.ijcai.org/proceedings/2022/0224.pdf), **Pengpeng Zeng**, Haonan Zhang, Jingkuan Song, Lianli Gao. [[Code]](https://github.com/zchoi/S2-Transformer)
+
+- `TIP 2021` [Hierarchical representation network with auxiliary tasks for video captioning and video question answering](https://ieeexplore.ieee.org/abstract/document/9592722/), Lianli Gao, Yu Lei, **Pengpeng Zeng**, Jingkuan Song, Meng Wang, Heng Tao Shen. [[Code]](https://github.com/Riesling00/HRNAT)
+
+- `ACM MM 2021`  (**oral**) [Conceptual and Syntactical Cross-modal Alignment with Cross-level Consistency for Image-Text Matching](https://dl.acm.org/doi/10.1145/3474085.3475380), **Pengpeng Zeng**, Lianli Gao, Xinyu Lyu, Shuaiqi Jing, Jingkuan Song.
+
+
+
+
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2025</div><img src='../images/cvpr25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [**Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**](https://arxiv.org/abs/2412.11509)<br>
@@ -136,15 +194,13 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 [[Paper]](https://www.ijcai.org/proceedings/2022/0224.pdf)[[Code]](https://github.com/zchoi/S2-Transformer)
 
 </div>
-</div>
+</div> -->
 
-- `IJCV 2026` Generalized Image Retrieval with Off-The-Shelf Quantizer, **Pengpeng Zeng** Yihang Duan Xiaosu Zhu Jingkuan Song Lianli Gao Nicu Sebe Hengtao Shen.
 
-- `TMM 2026` [Structure-aware Prompt Adaptation from Seen to Unseen for Open-Vocabulary Compositional Zero-Shot Learning](https://arxiv.org/abs/2603.03815), Yihang Duan, Jiong Wang, **Pengpeng Zeng**, Ji Zhang, Lei Zhao, Chong Wang, Jingkuan Song, Lianli Gao.
 
-- `TIP 2026` [SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors](https://arxiv.org/pdf/2410.07658), Xiao Cai, **Pengpeng Zeng**, Lianli Gao, Sitong Su, Heng Tao Shen, Jingkuan Song.
 
-- `ACM MM 2025` [AICL: Action In-Context Learning For Text-to-Video Generation](https://arxiv.org/abs/2403.11535), Jianzhi Liu, Junchen Zhu, **Pengpeng Zeng**, Lianli Gao, Heng Tao shen, Jingkuan Song.
+<!--
+unpublished paper
 
 - `arXiv 2025` [Towards Generalized and Training-Free Text-Guided Semantic Manipulation](https://arxiv.org/abs/2504.17269), Yu Hong, Xiao Cai, **Pengpeng Zeng**, Shuai Zhang, Jingkuan Song, Lianli Gao, Heng Tao Shen.
 
@@ -152,25 +208,7 @@ International Joint Conference on Artificial Intelligence (**IJCAI**), 2022<br>
 
 - `arXiv 2024` [GT23D-Bench: A Comprehensive General Text-to-3D Generation Benchmark](https://arxiv.org/abs/2412.09997), Sitong Su, Xiao Cai, Lianli Gao, **Pengpeng Zeng**, Qinhong Du, Mengqi Li, Heng Tao Shen, Jingkuan Song. 
 
-- ``ACL 2025`` [OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction](https://arxiv.org/pdf/2505.20277), Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, **Pengpeng Zeng**, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. [[Code]](https://github.com/zchoi/OmniCharacter)
-
-- `ACL 2025 (findings)` [MMEvol: Empowering multimodal large language models with evol-instruct](https://arxiv.org/pdf/2409.05840?), Run Luo, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, **Pengpeng Zeng**, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. [[Project]](https://mmevol.github.io/)[[Code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/mmevol/)
-
-- `ACM MM 2024` [MPT: Multi-grained Prompt Tuning for Text-Video Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680839), Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/MPT)
-
-- `TCSVT 2024` [UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval](https://ieeexplore.ieee.org/abstract/document/10599510/), Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/UMP_TVR)
-
-- `ACM MM 2024` [Depth-aware sparse transformer for video-language learning](https://dl.acm.org/doi/abs/10.1145/3581783.3611714), Haonan Zhang, Lianli Gao, **Pengpeng Zeng**, Alan Hanjalic, Heng Tao Shen. [[Code]](https://github.com/zchoi/DAST)
-
-- `TCSVT 2023` [SPT: Spatial pyramid transformer for image captioning](https://ieeexplore.ieee.org/abstract/document/10328641/), Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Xinyu Lyu, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/SPT)
-
-- `TMM 2023` [Memory-based augmentation network for video captioning](https://ieeexplore.ieee.org/abstract/document/10183355/), Shuaiqi Jing, Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/MAN)
-
-- `NeurIPS 2022` [A Differentiable Semantic Metric Approximation in Probabilistic Embedding for Cross-Modal Retrieval](https://proceedings.neurips.cc/paper_files/paper/2022/file/4e786a87e7ae249de2b1aeaf5d8fde82-Paper-Conference.pdf), Hao Li, Jingkuan Song, Lianli Gao, **Pengpeng Zeng**, Haonan Zhang, Gongfu Li. [[Code]](https://github.com/leolee99/2022-NeurIPS-DAA)
-
-- `TIP 2021` [Hierarchical representation network with auxiliary tasks for video captioning and video question answering](https://ieeexplore.ieee.org/abstract/document/9592722/), Lianli Gao, Yu Lei, **Pengpeng Zeng**, Jingkuan Song, Meng Wang, Heng Tao Shen. [[Code]](https://github.com/Riesling00/HRNAT)
-
-- `ACM MM 2021`  (**oral**) [Conceptual and Syntactical Cross-modal Alignment with Cross-level Consistency for Image-Text Matching](https://dl.acm.org/doi/10.1145/3474085.3475380), **Pengpeng Zeng**, Lianli Gao, Xinyu Lyu, Shuaiqi Jing, Jingkuan Song.
+-->
 
 
 # 🎖 Honors and Services
