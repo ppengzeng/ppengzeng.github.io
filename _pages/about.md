@@ -65,26 +65,25 @@ Selected publications are listed below. For the full list, please see my [Google
 
 - `TIP 2026` [SeMv-3D: Towards Semantic and Mutil-view Consistency simultaneously for General Text-to-3D Generation with Triplane Priors](https://arxiv.org/pdf/2410.07658), Xiao Cai, **Pengpeng Zeng**, Lianli Gao, Sitong Su, Heng Tao Shen, Jingkuan Song.
 
-- `ACM MM 2025` [AICL: Action In-Context Learning For Text-to-Video Generation](https://arxiv.org/abs/2403.11535), Jianzhi Liu, Junchen Zhu, **Pengpeng Zeng**, Lianli Gao, Heng Tao shen, Jingkuan Song.
-
 - `CVPR 2025` [Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves](https://arxiv.org/abs/2412.11509), Shihan Wu, Ji Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/Koorye/SkipTuning)
 
 - `TIP 2025` [Text-Video Retrieval with Global-Local Semantic Consistent Learning](https://ieeexplore.ieee.org/document/11024127), Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Yihang Duan, Xinyu Lyu, Heng Tao Shen. [[Code]](https://github.com/zchoi/GLSCL)<br>
 
 - `TIP 2025` [Multi-Concept Learning for Scene Graph Generation](https://ieeexplore.ieee.org/document/10909340), Xinyu Lyu, Lianli Gao, Junlin Xie, **Pengpeng Zeng**, Yulu Tian, Jie Shao, Heng Tao Shen. [[Code]](https://github.com/XinyuLyu/G-USGG)<br> 
 
-- `CVPR 2024` [ProS: Prompting-to-simulate Generalized knowledge for Universal Cross-Domain Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_ProS_Prompting-to-simulate_Generalized_knowledge_for_Universal_Cross-Domain_Retrieval_CVPR_2024_paper.pdf), Kaipeng Fang, Jingkuan Song, Lianli Gao, **Pengpeng Zeng**, Zhi-Qi Cheng, Xiyao Li, Heng Tao Shen. [[Code]](https://github.com/kaipengfang/ProS)
+- `ACM MM 2025` [AICL: Action In-Context Learning For Text-to-Video Generation](https://arxiv.org/abs/2403.11535), Jianzhi Liu, Junchen Zhu, **Pengpeng Zeng**, Lianli Gao, Heng Tao shen, Jingkuan Song.
 
 - ``ACL 2025`` [OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction](https://arxiv.org/pdf/2505.20277), Haonan Zhang, Run Luo, Xiong Liu, Yuchuan Wu, Ting-En Lin, **Pengpeng Zeng**, Qiang Qu, Feiteng Fang, Min Yang, Lianli Gao, Jingkuan Song, Fei Huang, Yongbin Li. [[Code]](https://github.com/zchoi/OmniCharacter)
 
 - `ACL 2025 (findings)` [MMEvol: Empowering multimodal large language models with evol-instruct](https://arxiv.org/pdf/2409.05840?), Run Luo, Haonan Zhang, Longze Chen, Ting-En Lin, Xiong Liu, Yuchuan Wu, Min Yang, Minzheng Wang, **Pengpeng Zeng**, Lianli Gao, Heng Tao Shen, Yunshui Li, Xiaobo Xia, Fei Huang, Jingkuan Song, Yongbin Li. [[Project]](https://mmevol.github.io/)[[Code]](https://github.com/AlibabaResearch/DAMO-ConvAI/tree/main/mmevol/)
+
+- `CVPR 2024` [ProS: Prompting-to-simulate Generalized knowledge for Universal Cross-Domain Retrieval](https://openaccess.thecvf.com/content/CVPR2024/papers/Fang_ProS_Prompting-to-simulate_Generalized_knowledge_for_Universal_Cross-Domain_Retrieval_CVPR_2024_paper.pdf), Kaipeng Fang, Jingkuan Song, Lianli Gao, **Pengpeng Zeng**, Zhi-Qi Cheng, Xiyao Li, Heng Tao Shen. [[Code]](https://github.com/kaipengfang/ProS)
 
 - `ACM MM 2024` [MPT: Multi-grained Prompt Tuning for Text-Video Retrieval](https://dl.acm.org/doi/abs/10.1145/3664647.3680839), Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/MPT)
 
 - `TCSVT 2024` [UMP: Unified Modality-aware Prompt Tuning for Text-Video Retrieval](https://ieeexplore.ieee.org/abstract/document/10599510/), Haonan Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen. [[Code]](https://github.com/zchoi/UMP_TVR)
 
 - `ACM MM 2024` [Depth-aware sparse transformer for video-language learning](https://dl.acm.org/doi/abs/10.1145/3581783.3611714), Haonan Zhang, Lianli Gao, **Pengpeng Zeng**, Alan Hanjalic, Heng Tao Shen. [[Code]](https://github.com/zchoi/DAST)
-
 
 - `TPAMI 2023` [Adaptive Fine-Grained Predicates Learning for Scene Graph Generation](https://ieeexplore.ieee.org/document/10192357), Xinyu Lyu, Lianli Gao, **Pengpeng Zeng**, Heng Tao Shen, Jingkuan Song. [[Code]](https://github.com/XinyuLyu/FGPL)
 
