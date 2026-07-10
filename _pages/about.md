@@ -24,19 +24,21 @@ My research interests include Machine Learning, Deep Learning, AI-Generated Cont
 If you are interested in related topics or potential collaborations, please feel free to get in touch: **is.pengpengzeng@gmail.com**.
 
 # 🔥 News
+- *2026.07*: One paper accepted by ACM MM 2026!
 - *2026.06*: One paper accepted by ECCV 2026!
 - *2026.05*: Three papers accepted by ICML 2026!
 - *2026.04*: One paper accepted by TPAMI 2026!
 - *2026.04*: One paper accepted by IJCV 2026!
 - *2026.03*: One paper accepted by TMM 2026!
 - *2026.02*: One paper accepted by TIP 2026!
+
+
+<!--
 - *2025.07*: One paper accepted by ACM MM 2025!
 - *2025.05*: Two papers accepted by ACL 2025!
 - *2025.05*: One paper accepted by TIP!
 - *2025.02*: One paper accepted by CVPR 2025!
 - *2025.02*: One paper accepted by TIP!
-
-<!--
 - *2024.07*: One paper accepted by ACM MM 2024!
 - *2024.07*: One paper accepted by TCSVT!
 - *2024.02*: One paper accepted by CVPR 2024!
@@ -51,6 +53,8 @@ If you are interested in related topics or potential collaborations, please feel
 
 # 📝 Publications 
 Selected publications are listed below. For the full list, please see my [Google Scholar](https://scholar.google.com/citations?user=Zs0PWb4AAAAJ&hl=en).
+
+- `ACM MM 2026` SpatialGS: Relative Spatial Regularization in Gaussian Splatting for Layout-guided Text-to-3D Generation, Qinhong Du, Xiao Cai, **Pengpeng Zeng**, Ji Zhang, Jingkuan Song, Lianli Gao.
 
 - `ECCV 2026` [From One-to-One to Many-to-Many: Dynamic Cross-Layer Injection for Deep Vision-Language Fusion](https://arxiv.org/pdf/2601.10710), Cheng Chen, Yuyu Guo, **Pengpeng Zeng**, Jingkuan Song, Peng Di, Hang Yu, Lianli Gao.
 
