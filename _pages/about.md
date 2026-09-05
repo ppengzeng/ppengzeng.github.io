@@ -24,6 +24,7 @@ My research interests include Robot Learning, Multimodal Learning, and Computer 
 We are currently looking for 2–3 motivated interns to join our research projects in Robot Learning and Multimodal Learning. If you are interested in these topics or potential collaboration opportunities, please feel free to send your CV to **[is.pengpengzeng@gmail.com](mailto:is.pengpengzeng@gmail.com)**.
 
 # 🔥 News
+- *2026.09*: One paper accepted by CoRL 2026!
 - *2026.07*: One paper accepted by ACM MM 2026!
 - *2026.06*: One paper accepted by ECCV 2026!
 - *2026.05*: Three papers accepted by ICML 2026!
@@ -54,6 +55,8 @@ We are currently looking for 2–3 motivated interns to join our research projec
 # 📝 Publications
 
 Selected publications are listed below. For the full list, please see my Google Scholar profile.
+
+* `CoRL 2026` Sim-and-Human Co-training for Data-Efficient and Scene-Generalizable Bimanual Manipulation, Kaipeng Fang, Weiqing Liang, Yuyang Li, Ji Zhang, **Pengpeng Zeng**, Lianli Gao, Jingkuan Song, Heng Tao Shen.
 
 * `ACM MM 2026` SpatialGS: Relative Spatial Regularization in Gaussian Splatting for Layout-guided Text-to-3D Generation, Qinhong Du, Xiao Cai, **Pengpeng Zeng**, Ji Zhang, Jingkuan Song, Lianli Gao.
 
